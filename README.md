@@ -4,7 +4,7 @@ There are 2 versions of the Power BI Dashboard, and there are also my notes on w
 The file with 2 at the end of the name was the final version of the dashboard.
 Check that one out!
 
-##The Client
+## The Client
 For every 10 min away someone lives from a dentist, it’s a 10% higher chance they won’t see a dentist within a year. 
 Someone who lives 1hr from a dentist office has a 40% chance they won't see a dentist within the next year.
 There are 68 Million people in cities/locations that don't have dental healthcare within a reasonable distance from where they live - they live in what are called dental deserts.
@@ -20,7 +20,7 @@ https://karemobile.com/
 * What can be concluded overall when looking at the data for multiple locations & dates altogether?
 * What trends in demographics, zip codes, or different retail chains might exist in the data?
 
-##The Data
+## The Data
 * Data received (csv files) included the screening location and basic patient info for each dental screening performed by the client per day.
 * The data includes Demographics, Symptoms/Patient History, Patient Behaviors, and Insurance info.
 * The final data received covers 363 mobile screenings events across 5 locations, all during weekends (Saturday & Sunday).
@@ -31,7 +31,7 @@ https://karemobile.com/
 * I cleaned blanks, invalid values, "Not Provided" and "N/A"'s in the data mostly via Microsoft Excel upon clarifying some of the meanings with the client.
 * There was further cleaning, as well as identification of column types done via Power Query in Power BI.
 
-##Methodology/Questions
+## Methodology/Questions
 A relational database was created inside Power Query - 3 tables for Behaviors, Demographics, and Symptoms/Patient History.
 
 * Are there trends around zip code?
@@ -41,7 +41,7 @@ A relational database was created inside Power Query - 3 tables for Behaviors, D
 * Are there trends around specific retailer chains?
 * Are there trends around specific days of the week?
 
-##Conclusion
+## Conclusion
 <ins>In dashboard<ins>
 
 pg1 - Trends in Gender and Insurance
