@@ -45,6 +45,9 @@ A relational database was created inside Power Query - 3 tables for Behaviors, D
 <ins>In dashboard<ins>
 
 pg1 - Trends in Gender and Insurance
+
 pg2 - Trends in Patient History, Gender, and Pain
+
 pg3 - Impact
+
 Pg4 - Sources
