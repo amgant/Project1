@@ -1,0 +1,67 @@
+Submission Date,Is the patient over 18?,Zip Code,Choose screening date,Patient D.O.B.,Patient Gender,Is Patient  currently experiencing any pain?,"Patient | Dental History, Please check all that apply",How often does Patient brush their teeth daily?,Which toothpaste does Patient  use most?,How often does Patient visit a dental office?,Do you have dental insurance?,Choose your insurance provider,Please enter your insurance provider,Submission ID,Location,Retailer,Address
+8/19/2023 12:59,Yes,97209,"Sat, August 19, 2023",8/30/1991,Female,0 - No Pain,"Cavities
+Sensitive Teeth
+Jaw Joint Pain",2 - Twice A Day,Colgate,1 - Once a year,Yes,Other,OSHA,5.68274E+18,"Portland, Oregon",Fred Meyer,"11425 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/19/2023 13:22,Yes,97007,"Sat, August 19, 2023",1/19/1966,Male,0 - No Pain,"Cavities
+Bleeding Gums",1 - Once A Day,Crest,0 - Zero times a year,Yes,,,5.68275E+18,"Portland, Oregon",Fred Meyer,"11426 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/19/2023 14:19,Yes,97007,"Sat, August 19, 2023",3/6/1981,Female,0 - No Pain,"Cavities
+Sensitive Teeth",1 - Once A Day,Crest,2 - Twice a year,No,,,5.68278E+18,"Portland, Oregon",Fred Meyer,"11427 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/19/2023 14:21,No,97007,"Sat, August 19, 2023",3/14/2009,Female,0 - No Pain,Cavities,1 - Once A Day,Crest,5+ - Five and or above times a year,No,,,5.68278E+18,"Portland, Oregon",Fred Meyer,"11428 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/19/2023 14:24,Yes,97007,"Sat, August 19, 2023",3/11/1977,Male,0 - No Pain,Cavities,1 - Once A Day,Crest,2 - Twice a year,No,,,5.68279E+18,"Portland, Oregon",Fred Meyer,"11429 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/19/2023 14:40,Yes,97225,"Sat, August 19, 2023",5/29/1962,Female,0 - No Pain,None of the above,3 - Three Times A Day,Colgate,1 - Once a year,Yes,Blue Cross,,5.6828E+18,"Portland, Oregon",Fred Meyer,"11430 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/19/2023 14:41,Yes,97005,"Sat, August 19, 2023",4/25/1975,Male,0 - No Pain,"Cavities
+Broken Teeth",1 - Once A Day,Toms of Maine,0 - Zero times a year,No,,,5.6828E+18,"Portland, Oregon",Fred Meyer,"11431 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/19/2023 14:57,Yes,97008,"Sat, August 19, 2023",9/4/1945,Female,0 - No Pain,None of the above,4+ - Four+ Times A Day,Crest,0 - Zero times a year,No,,,5.68281E+18,"Portland, Oregon",Fred Meyer,"11432 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/19/2023 15:20,Yes,52290,"Sat, August 19, 2023",5/8/2001,Female,3 - Slight Pain,None of the above,2 - Twice A Day,Colgate,0 - Zero times a year,No,,,5.68282E+18,"Portland, Oregon",Fred Meyer,"11433 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/19/2023 15:29,No,97229,"Sat, August 19, 2023",11/26/2021,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,2 - Twice a year,Yes,,,5.68283E+18,"Portland, Oregon",Fred Meyer,"11434 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/19/2023 15:30,No,97229,"Sat, August 19, 2023",11/28/2022,Female,0 - No Pain,,,,,Yes,,,5.68283E+18,"Portland, Oregon",Fred Meyer,"11435 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/19/2023 15:35,Yes,97005,"Sat, August 19, 2023",12/17/2028,Female,0 - No Pain,,2 - Twice A Day,Crest,2 - Twice a year,No,,,5.68283E+18,"Portland, Oregon",Fred Meyer,"11436 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/19/2023 15:47,Yes,97078,"Sat, August 19, 2023",3/23/1968,Male,0 - No Pain,"Cavities
+Bleeding Gums
+Broken Teeth",3 - Three Times A Day,Colgate,2 - Twice a year,Yes,Other,,5.68284E+18,"Portland, Oregon",Fred Meyer,"11437 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/19/2023 16:04,No,Invalid,"Sat, August 19, 2023",1/16/2016,Female,0 - No Pain,Cavities,2 - Twice A Day,Crest,4 - Four times a year,Yes,Other,Kiaser dental,5.68285E+18,"Portland, Oregon",Fred Meyer,"11438 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/19/2023 16:09,Yes,97123,"Sat, August 19, 2023",6/12/1969,Female,0 - No Pain,"Cavities
+Dry Mouth
+Teeth Grinding
+Teeth Whitening",1 - Once A Day,Crest,0 - Zero times a year,No,,,5.68285E+18,"Portland, Oregon",Fred Meyer,"11439 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/19/2023 16:10,Yes,97007,"Sat, August 19, 2023",2/4/1993,Female,0 - No Pain,"Cavities
+Broken Teeth",3 - Three Times A Day,Crest,1 - Once a year,Yes,United Health Care,,5.68285E+18,"Portland, Oregon",Fred Meyer,"11440 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/19/2023 16:12,No,97123,"Sat, August 19, 2023",10/28/2018,Female,0 - No Pain,None of the above,1 - Once A Day,Crest,0 - Zero times a year,Yes,Other,OHP,5.68285E+18,"Portland, Oregon",Fred Meyer,"11441 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/19/2023 16:48,Yes,97225,"Sat, August 19, 2023",7/23/1998,Female,0 - No Pain,,1 - Once A Day,,0 - Zero times a year,No,,,5.68287E+18,"Portland, Oregon",Fred Meyer,"11442 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/19/2023 16:50,Yes,97225,"Sat, August 19, 2023",7/3/1988,Male,0 - No Pain,,1 - Once A Day,Crest,0 - Zero times a year,No,,,5.68287E+18,"Portland, Oregon",Fred Meyer,"11443 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/19/2023 17:00,Yes,97321,"Sat, August 19, 2023",6/20/1970,Male,0 - No Pain,Cavities,1 - Once A Day,Crest,1 - Once a year,Yes,Delta Dental,,5.68288E+18,"Portland, Oregon",Fred Meyer,"11444 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/19/2023 17:09,Yes,97005,"Sat, August 19, 2023",3/21/1991,Female,0 - No Pain,"Cavities
+Bleeding Gums
+Tooth Ache
+Sensitive Teeth",1 - Once A Day,Arm & Hammer,1 - Once a year,Yes,Other,Kaiser permanente,5.68289E+18,"Portland, Oregon",Fred Meyer,"11445 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/19/2023 17:12,Yes,97003,"Sat, August 19, 2023",8/19/2023,Female,0 - No Pain,Bleeding Gums,2 - Twice A Day,Crest,1 - Once a year,Yes,Other,,5.68289E+18,"Portland, Oregon",Fred Meyer,"11446 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/19/2023 17:41,Yes,97005,"Sat, August 19, 2023",3/8/1986,Female,3 - Slight Pain,"Cavities
+Teeth Grinding",2 - Twice A Day,Crest,2 - Twice a year,No,,,5.68291E+18,"Portland, Oregon",Fred Meyer,"11447 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/20/2023 13:13,Yes,97005,"Sun, August 20, 2023",1/19/1978,Male,7 - Severe Pain,"Cavities
+Teeth Grinding
+Tooth Ache
+Sensitive Teeth",2 - Twice A Day,Crest,1 - Once a year,No,,,5.68361E+18,"Portland, Oregon",Fred Meyer,"11448 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/20/2023 15:09,Yes,97005,"Sun, August 20, 2023",1/23/1966,Male,0 - No Pain,Cavities,,,,No,,,5.68368E+18,"Portland, Oregon",Fred Meyer,"11449 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/20/2023 15:12,Yes,97220,"Sun, August 20, 2023",10/29/1991,Female,3 - Slight Pain,"Cavities
+Bleeding Gums
+Teeth Grinding",1 - Once A Day,Arm & Hammer,,No,,,5.68368E+18,"Portland, Oregon",Fred Meyer,"11450 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/20/2023 15:20,Yes,97005,"Sun, August 20, 2023",5/22/1941,Male,0 - No Pain,Cavities,2 - Twice A Day,Crest,0 - Zero times a year,Yes,Other,Kaiser,5.68368E+18,"Portland, Oregon",Fred Meyer,"11451 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/20/2023 15:39,Yes,97223,"Sun, August 20, 2023",9/13/1953,Male,0 - No Pain,None of the above,2 - Twice A Day,Arm & Hammer,0 - Zero times a year,No,,,5.6837E+18,"Portland, Oregon",Fred Meyer,"11452 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/20/2023 16:04,No,97005,"Sun, August 20, 2023",6/26/2012,Female,0 - No Pain,"Cavities
+Mouth Sores
+Bleeding Gums
+Sensitive Teeth",2 - Twice A Day,Colgate,2 - Twice a year,No,,,5.68371E+18,"Portland, Oregon",Fred Meyer,"11453 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/20/2023 16:31,Yes,97005,"Sun, August 20, 2023",3/6/1980,Female,,"Cavities
+Bleeding Gums
+Sensitive Teeth",1 - Once A Day,Toms of Maine,1 - Once a year,Yes,Other,Oregon health plan,5.68373E+18,"Portland, Oregon",Fred Meyer,"11454 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/20/2023 16:49,Yes,40210,"Sun, August 20, 2023",2/19/1993,Male,0 - No Pain,Cavities,2 - Twice A Day,Aim,2 - Twice a year,No,,,5.68374E+18,"Portland, Oregon",Fred Meyer,"11455 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+8/20/2023 17:12,Yes,97008,"Sun, August 20, 2023",12/8/2002,Female,3 - Slight Pain,"Cavities
+Bleeding Gums
+Teeth Grinding
+Sensitive Teeth
+Jaw Joint Pain",1 - Once A Day,Crest,2 - Twice a year,Yes,Other,Tricare,5.68375E+18,"Portland, Oregon",Fred Meyer,"11456 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+9/28/2023 9:45,Yes,97003,"Sat, August 19, 2023",8/19/2023,Female,0 - No Pain,Bleeding Gums,2 - Twice A Day,Crest,1 - Once a year,Yes,Other,,5.71718E+18,"Portland, Oregon",Fred Meyer,"11457 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"
+9/28/2023 9:45,Yes,97005,"Sat, August 19, 2023",3/21/1991,Female,0 - No Pain,"Cavities
+Bleeding Gums
+Tooth Ache
+Sensitive Teeth",1 - Once A Day,Arm & Hammer,1 - Once a year,Yes,Other,Kaiser permanente,5.71718E+18,"Portland, Oregon",Fred Meyer,"11458 SE Beaverton Hillsdale Hwy Beaverton, OR 97005"

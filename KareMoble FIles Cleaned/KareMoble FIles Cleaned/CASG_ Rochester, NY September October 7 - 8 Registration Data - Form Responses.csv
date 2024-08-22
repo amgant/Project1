@@ -1,0 +1,87 @@
+Submission Date,Is the patient over 18?,Zip Code,Choose screening date,Patient D.O.B.,Patient Gender,Is Patient  currently experiencing any pain?,"Patient | Dental History, Please check all that apply",How often does Patient brush their teeth daily?,Which toothpaste does Patient  use most?,How often does Patient visit a dental office?,Do you have dental insurance?,Choose your insurance provider,Please enter your insurance provider,Submission ID,Location,Retailer,Address
+9/27/2023 19:19,Yes,12345,"Sun, October 8th, 2023",1/1/2001,Male,0 - No Pain,,1 - Once A Day,Crest,0 - Zero times a year,No,,,5.72E+18,"Rochester, New York",Wegmans,"525 Titus Avenue Rochester, NY 14617"
+10/7/2023 8:22,Yes,12345,"Sat, October 7th, 2023",1/1/2001,Male,,,,,,No,,,5.72E+18,"Rochester, New York",Wegmans,"526 Titus Avenue Rochester, NY 14617"
+10/7/2023 8:24,No,No Response,"Sun, October 8th, 2023",1/1/2015,Female,,,,,,No,,,5.72E+18,"Rochester, New York",Wegmans,"527 Titus Avenue Rochester, NY 14617"
+10/7/2023 9:26,Yes,No Response,"Sat, October 7th, 2023",1/1/1990,Male,0 - No Pain,"Cavities
+Jaw Joint Pain",2 - Twice A Day,Crest,2 - Twice a year,No,,,5.72E+18,"Rochester, New York",Wegmans,"528 Titus Avenue Rochester, NY 14617"
+10/7/2023 10:04,No,14617,"Sat, October 7th, 2023",6/30/2016,Male,0 - No Pain,None of the above,1 - Once A Day,Crest,1 - Once a year,Yes,Humana Caresource Medicaid,,5.72E+18,"Rochester, New York",Wegmans,"529 Titus Avenue Rochester, NY 14617"
+10/7/2023 10:04,No,14617,"Sat, October 7th, 2023",12/8/2013,Male,0 - No Pain,None of the above,1 - Once A Day,Crest,1 - Once a year,Yes,Humana Caresource Medicaid,,5.72E+18,"Rochester, New York",Wegmans,"530 Titus Avenue Rochester, NY 14617"
+10/7/2023 10:43,Yes,No Response,"Sat, October 7th, 2023",2/6/1978,Male,3 - Slight Pain,"Cavities
+Sensitive Teeth",2 - Twice A Day,Colgate,0 - Zero times a year,No,,,5.72E+18,"Rochester, New York",Wegmans,"531 Titus Avenue Rochester, NY 14617"
+10/7/2023 10:44,Yes,14621,"Sat, October 7th, 2023",9/12/1940,Male,3 - Slight Pain,,,,,No,,,5.72E+18,"Rochester, New York",Wegmans,"532 Titus Avenue Rochester, NY 14617"
+10/7/2023 10:46,Yes,14621,"Sat, October 7th, 2023",7/16/1967,Female,0 - No Pain,Cavities,2 - Twice A Day,Crest,1 - Once a year,Yes,Blue Cross,,5.72E+18,"Rochester, New York",Wegmans,"533 Titus Avenue Rochester, NY 14617"
+10/7/2023 11:14,Yes,14613,"Sat, October 7th, 2023",12/17/1978,Female,0 - No Pain,"Cavities
+Broken Teeth",1 - Once A Day,Colgate,0 - Zero times a year,Yes,Other,Mvp,5.73E+18,"Rochester, New York",Wegmans,"534 Titus Avenue Rochester, NY 14617"
+10/7/2023 11:23,Yes,14617,"Sat, October 7th, 2023",12/23/1957,Female,,None of the above,2 - Twice A Day,Arm & Hammer,2 - Twice a year,Yes,Blue Cross,,5.73E+18,"Rochester, New York",Wegmans,"535 Titus Avenue Rochester, NY 14617"
+10/7/2023 11:32,Yes,14616,"Sat, October 7th, 2023",10/14/1993,Female,3 - Slight Pain,"Cavities
+Broken Teeth
+Teeth Grinding
+Jaw Joint Pain",1 - Once A Day,Sensodyne,0 - Zero times a year,No,,,5.73E+18,"Rochester, New York",Wegmans,"536 Titus Avenue Rochester, NY 14617"
+10/7/2023 11:35,Yes,14617,"Sat, October 7th, 2023",8/4/1974,Female,5 - Moderate Pain,"Mouth Sores
+Dry Mouth
+Teeth Grinding
+Tooth Ache
+Sensitive Teeth",2 - Twice A Day,Sensodyne,1 - Once a year,Yes,Other,Healthplex,5.73E+18,"Rochester, New York",Wegmans,"537 Titus Avenue Rochester, NY 14617"
+10/7/2023 11:37,No,14617,"Sat, October 7th, 2023",9/4/2020,Female,0 - No Pain,Cavities,1 - Once A Day,Crest,2 - Twice a year,Yes,Other,Healthplex,5.73E+18,"Rochester, New York",Wegmans,"538 Titus Avenue Rochester, NY 14617"
+10/7/2023 11:44,Yes,14616,"Sat, October 7th, 2023",10/14/1993,Female,3 - Slight Pain,"Cavities
+Broken Teeth
+Teeth Grinding
+Jaw Joint Pain",1 - Once A Day,Sensodyne,0 - Zero times a year,No,,,5.73E+18,"Rochester, New York",Wegmans,"539 Titus Avenue Rochester, NY 14617"
+10/7/2023 11:49,Yes,14616,"Sat, October 7th, 2023",3/6/1957,Male,0 - No Pain,"Cavities
+Bleeding Gums
+Broken Teeth",2 - Twice A Day,Crest,1 - Once a year,Yes,Blue Cross,,5.73E+18,"Rochester, New York",Wegmans,"540 Titus Avenue Rochester, NY 14617"
+10/7/2023 11:57,Yes,14621,"Sat, October 7th, 2023",11/10/1962,Male,0 - No Pain,Broken Teeth,1 - Once A Day,Crest,0 - Zero times a year,No,,,5.73E+18,"Rochester, New York",Wegmans,"541 Titus Avenue Rochester, NY 14617"
+10/7/2023 12:07,Yes,14612,"Sat, October 7th, 2023",11/4/1986,Male,0 - No Pain,None of the above,2 - Twice A Day,Crest,1 - Once a year,No,,,5.73E+18,"Rochester, New York",Wegmans,"542 Titus Avenue Rochester, NY 14617"
+10/7/2023 12:08,No,14612,"Sat, October 7th, 2023",7/14/2010,Male,0 - No Pain,None of the above,2 - Twice A Day,Crest,1 - Once a year,No,,,5.73E+18,"Rochester, New York",Wegmans,"543 Titus Avenue Rochester, NY 14617"
+10/7/2023 12:09,Yes,No Response,"Sat, October 7th, 2023",11/10/1962,Male,0 - No Pain,"Cavities
+Bleeding Gums
+Dry Mouth
+Broken Teeth
+Teeth Grinding
+Jaw Joint Pain",1 - Once A Day,Crest,0 - Zero times a year,No,,,5.73E+18,"Rochester, New York",Wegmans,"544 Titus Avenue Rochester, NY 14617"
+10/7/2023 12:10,No,14612,"Sat, October 7th, 2023",10/5/2014,Male,0 - No Pain,None of the above,2 - Twice A Day,Crest,1 - Once a year,No,,,5.73E+18,"Rochester, New York",Wegmans,"545 Titus Avenue Rochester, NY 14617"
+10/7/2023 12:11,No,14612,"Sat, October 7th, 2023",8/17/2013,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,1 - Once a year,No,,,5.73E+18,"Rochester, New York",Wegmans,"546 Titus Avenue Rochester, NY 14617"
+10/7/2023 12:13,No,14612,"Sat, October 7th, 2023",4/20/2007,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,1 - Once a year,No,,,5.73E+18,"Rochester, New York",Wegmans,"547 Titus Avenue Rochester, NY 14617"
+10/7/2023 12:14,No,14612,"Sat, October 7th, 2023",12/28/2011,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,1 - Once a year,No,,,5.73E+18,"Rochester, New York",Wegmans,"548 Titus Avenue Rochester, NY 14617"
+10/7/2023 12:21,Yes,14621,"Sat, October 7th, 2023",11/10/1963,Male,0 - No Pain,Broken Teeth,1 - Once A Day,Crest,0 - Zero times a year,No,,,5.73E+18,"Rochester, New York",Wegmans,"549 Titus Avenue Rochester, NY 14617"
+10/7/2023 12:27,No,14621,"Sat, October 7th, 2023",2/25/2019,Male,0 - No Pain,None of the above,2 - Twice A Day,Crest,2 - Twice a year,Yes,Blue Cross,,5.73E+18,"Rochester, New York",Wegmans,"550 Titus Avenue Rochester, NY 14617"
+10/7/2023 12:28,Yes,14621,"Sat, October 7th, 2023",2/27/1991,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,2 - Twice a year,Yes,Blue Cross,,5.73E+18,"Rochester, New York",Wegmans,"551 Titus Avenue Rochester, NY 14617"
+10/7/2023 12:35,Yes,14609,"Sat, October 7th, 2023",7/12/1963,Female,,"Cavities
+Sensitive Teeth",2 - Twice A Day,Sensodyne,1 - Once a year,Yes,United Health Care,,5.73E+18,"Rochester, New York",Wegmans,"552 Titus Avenue Rochester, NY 14617"
+10/7/2023 12:38,No,14621,"Sat, October 7th, 2023",8/6/2010,Male,0 - No Pain,None of the above,1 - Once A Day,Crest,1 - Once a year,Yes,Blue Cross,,5.73E+18,"Rochester, New York",Wegmans,"553 Titus Avenue Rochester, NY 14617"
+10/7/2023 12:39,Yes,14621,"Sat, October 7th, 2023",8/16/1979,Female,3 - Slight Pain,"Broken Teeth
+Sensitive Teeth",1 - Once A Day,Crest,1 - Once a year,Yes,Blue Cross,,5.73E+18,"Rochester, New York",Wegmans,"554 Titus Avenue Rochester, NY 14617"
+10/7/2023 13:07,Yes,14621,"Sat, October 7th, 2023",8/25/1981,Male,0 - No Pain,Cavities,2 - Twice A Day,Crest,1 - Once a year,No,,,5.73E+18,"Rochester, New York",Wegmans,"555 Titus Avenue Rochester, NY 14617"
+10/7/2023 13:11,Yes,14621,"Sat, October 7th, 2023",3/16/1964,Male,0 - No Pain,,3 - Three Times A Day,Crest,2 - Twice a year,No,,,5.73E+18,"Rochester, New York",Wegmans,"556 Titus Avenue Rochester, NY 14617"
+10/7/2023 13:14,Yes,No Response,"Sat, October 7th, 2023",8/25/1982,Male,0 - No Pain,,2 - Twice A Day,Crest,1 - Once a year,No,,,5.73E+18,"Rochester, New York",Wegmans,"557 Titus Avenue Rochester, NY 14617"
+10/7/2023 13:17,Yes,14617,"Sat, October 7th, 2023",10/4/1999,Female,0 - No Pain,Cavities,1 - Once A Day,Sensodyne,0 - Zero times a year,No,,,5.73E+18,"Rochester, New York",Wegmans,"558 Titus Avenue Rochester, NY 14617"
+10/7/2023 13:32,Yes,14617,"Sat, October 7th, 2023",6/2/1952,Female,,None of the above,2 - Twice A Day,Crest,1 - Once a year,Yes,MetLife,,5.73E+18,"Rochester, New York",Wegmans,"559 Titus Avenue Rochester, NY 14617"
+10/7/2023 13:33,Yes,14617,"Sat, October 7th, 2023",8/2/1965,Female,0 - No Pain,Sensitive Teeth,3 - Three Times A Day,Crest,2 - Twice a year,Yes,Other,,5.73E+18,"Rochester, New York",Wegmans,"560 Titus Avenue Rochester, NY 14617"
+10/7/2023 14:07,Yes,No Response,"Sat, October 7th, 2023",10/7/1992,Male,5 - Moderate Pain,,,,,No,,,5.73E+18,"Rochester, New York",Wegmans,"561 Titus Avenue Rochester, NY 14617"
+10/7/2023 14:14,Yes,14621,"Sat, October 7th, 2023",1/11/1987,Female,3 - Slight Pain,"Mouth Sores
+Dry Mouth
+Broken Teeth
+Tooth Ache
+Sensitive Teeth",1 - Once A Day,Colgate,0 - Zero times a year,No,,,5.73E+18,"Rochester, New York",Wegmans,"562 Titus Avenue Rochester, NY 14617"
+10/7/2023 14:14,Yes,No Response,"Sat, October 7th, 2023",5/3/1980,Male,,,,,,No,,,5.73E+18,"Rochester, New York",Wegmans,"563 Titus Avenue Rochester, NY 14617"
+10/7/2023 14:17,Yes,14617,"Sat, October 7th, 2023",4/27/1950,Female,3 - Slight Pain,Sensitive Teeth,2 - Twice A Day,Crest,1 - Once a year,Yes,United Health Care,,5.73E+18,"Rochester, New York",Wegmans,"564 Titus Avenue Rochester, NY 14617"
+10/7/2023 14:22,Yes,14617,"Sat, October 7th, 2023",3/24/1952,Female,0 - No Pain,Cavities,2 - Twice A Day,Crest,2 - Twice a year,Yes,United Health Care,,5.73E+18,"Rochester, New York",Wegmans,"565 Titus Avenue Rochester, NY 14617"
+10/7/2023 14:45,Yes,14618,"Sat, October 7th, 2023",4/3/1962,Male,3 - Slight Pain,"Cavities
+Teeth Grinding",2 - Twice A Day,Aim,0 - Zero times a year,No,,,5.73E+18,"Rochester, New York",Wegmans,"566 Titus Avenue Rochester, NY 14617"
+10/8/2023 11:29,Yes,14615,"Sat, October 7th, 2023",10/16/1996,Female,0 - No Pain,"Cavities
+Broken Teeth",2 - Twice A Day,,1 - Once a year,Yes,Blue Cross,,5.73E+18,"Rochester, New York",Wegmans,"567 Titus Avenue Rochester, NY 14617"
+10/8/2023 12:37,Yes,14621,"Sat, October 7th, 2023",9/15/1996,Female,3 - Slight Pain,Cavities,2 - Twice A Day,Crest,0 - Zero times a year,Yes,Guardian,,5.73E+18,"Rochester, New York",Wegmans,"568 Titus Avenue Rochester, NY 14617"
+10/8/2023 12:43,Yes,14617,"Sat, October 7th, 2023",10/11/1946,Female,0 - No Pain,Cavities,2 - Twice A Day,Sensodyne,0 - Zero times a year,Yes,Other,,5.73E+18,"Rochester, New York",Wegmans,"569 Titus Avenue Rochester, NY 14617"
+10/8/2023 13:16,Yes,14605,"Sun, October 8th, 2023",11/22/1955,Female,,None of the above,1 - Once A Day,Colgate,0 - Zero times a year,Yes,Other,,5.73E+18,"Rochester, New York",Wegmans,"570 Titus Avenue Rochester, NY 14617"
+10/8/2023 13:18,Yes,14620,"Sun, October 8th, 2023",11/28/1965,Male,0 - No Pain,,2 - Twice A Day,Crest,0 - Zero times a year,Yes,Other,Medicaid,5.73E+18,"Rochester, New York",Wegmans,"571 Titus Avenue Rochester, NY 14617"
+10/8/2023 13:28,Yes,14609,"Sun, October 8th, 2023",5/23/1961,Female,3 - Slight Pain,"Cavities
+Broken Teeth
+Sensitive Teeth",3 - Three Times A Day,Colgate,0 - Zero times a year,Yes,Blue Cross,,5.73E+18,"Rochester, New York",Wegmans,"572 Titus Avenue Rochester, NY 14617"
+10/8/2023 14:03,Yes,14617,"Sun, October 8th, 2023",9/11/1946,Male,0 - No Pain,Dry Mouth,2 - Twice A Day,Sensodyne,1 - Once a year,Yes,Wellcare,,5.73E+18,"Rochester, New York",Wegmans,"573 Titus Avenue Rochester, NY 14617"
+10/8/2023 14:17,Yes,14603,"Sun, October 8th, 2023",11/8/1941,Male,0 - No Pain,None of the above,2 - Twice A Day,Colgate,1 - Once a year,No,,,5.73E+18,"Rochester, New York",Wegmans,"574 Titus Avenue Rochester, NY 14617"
+10/8/2023 14:35,Yes,14617,"Sun, October 8th, 2023",8/6/1998,Female,0 - No Pain,None of the above,1 - Once A Day,Crest,5+ - Five and or above times a year,Yes,United Health Care,,5.73E+18,"Rochester, New York",Wegmans,"575 Titus Avenue Rochester, NY 14617"
+10/8/2023 14:50,Yes,14617,"Sun, October 8th, 2023",5/20/1980,Female,0 - No Pain,"Cavities
+Broken Teeth
+Jaw Joint Pain",1 - Once A Day,Sensodyne,0 - Zero times a year,Yes,Blue Cross,,5.73E+18,"Rochester, New York",Wegmans,"576 Titus Avenue Rochester, NY 14617"
+10/8/2023 14:53,Yes,14559,"Sun, October 8th, 2023",1/11/1979,Male,0 - No Pain,Teeth Whitening,1 - Once A Day,Arm & Hammer,2 - Twice a year,Yes,Blue Cross,,5.73E+18,"Rochester, New York",Wegmans,"577 Titus Avenue Rochester, NY 14617"
+10/8/2023 14:57,No,14621,"Sun, October 8th, 2023",6/5/2013,Female,0 - No Pain,Cavities,2 - Twice A Day,Crest,2 - Twice a year,Yes,Blue Cross,,5.73E+18,"Rochester, New York",Wegmans,"578 Titus Avenue Rochester, NY 14617"

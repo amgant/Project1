@@ -1,0 +1,144 @@
+Submission Date,Is the patient over 18?,Zip Code,Choose screening date,Patient D.O.B.,Patient Gender,Is Patient  currently experiencing any pain?,"Patient | Dental History, Please check all that apply",How often does Patient brush their teeth daily?,Which toothpaste does Patient  use most?,How often does Patient visit a dental office?,Do you have dental insurance?,Choose your insurance provider,Please enter your insurance provider,Submission ID,Location,Retailer,Address
+9/14/2023 10:53,Yes,89169,"Sat, September 16, 2023",11/3/1990,Female,0 - No Pain,"Cavities
+Teeth Grinding
+Jaw Joint Pain",1 - Once A Day,Colgate,1 - Once a year,No,,,5.70512E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/14/2023 10:57,Yes,89169,"Sat, September 16, 2023",3/15/1971,Female,0 - No Pain,,1 - Once A Day,Colgate,1 - Once a year,No,,,5.70513E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/14/2023 11:00,No,89169,"Sat, September 16, 2023",11/9/2007,Female,0 - No Pain,,1 - Once A Day,Colgate,1 - Once a year,No,,,5.70513E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/14/2023 11:03,No,89169,"Sat, September 16, 2023",1/30/2013,Female,0 - No Pain,,3 - Three Times A Day,Colgate,1 - Once a year,Yes,Other,Medicaid,5.70513E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 13:03,No,89119,"Sat, September 16, 2023",,,0 - No Pain,None of the above,2 - Twice A Day,Colgate,1 - Once a year,Yes,United Health Care,,5.70693E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 13:08,No,89119,"Sat, September 16, 2023",5/2/2014,Male,0 - No Pain,None of the above,1 - Once A Day,Colgate,1 - Once a year,Yes,Humana Caresource Medicaid,,5.70693E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 13:10,Yes,89101,"Sat, September 16, 2023",9/25/1995,Male,3 - Slight Pain,None of the above,1 - Once A Day,Crest,1 - Once a year,No,,,5.70693E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 13:11,No,89119,"Sat, September 16, 2023",2/27/2018,Male,3 - Slight Pain,Sensitive Teeth,1 - Once A Day,Colgate,1 - Once a year,Yes,Humana Caresource Medicaid,,5.70693E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 13:14,No,89119,"Sat, September 16, 2023",8/31/2015,Male,3 - Slight Pain,Sensitive Teeth,1 - Once A Day,Colgate,1 - Once a year,Yes,Humana Caresource Medicaid,,5.70694E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 13:17,No,89119,"Sat, September 16, 2023",1/2/2017,Female,0 - No Pain,Bleeding Gums,1 - Once A Day,Colgate,1 - Once a year,Yes,Humana Caresource Medicaid,,5.70694E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 13:39,Yes,89121,"Sat, September 16, 2023",1/16/1974,Male,0 - No Pain,"Cavities
+Bleeding Gums
+Broken Teeth
+Teeth Grinding",3 - Three Times A Day,Crest,0 - Zero times a year,No,,,5.70695E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 13:51,Yes,89121,"Sat, September 16, 2023",4/24/1978,Male,0 - No Pain,None of the above,3 - Three Times A Day,Crest,3 - Three times a year,No,,,5.70696E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 14:05,Yes,89104,"Sat, September 16, 2023",7/10/1968,Female,5 - Moderate Pain,"Cavities
+Bleeding Gums
+Broken Teeth
+Tooth Ache
+Sensitive Teeth",2 - Twice A Day,Colgate,2 - Twice a year,Yes,Anthem,,5.70697E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 14:08,Yes,89121,"Sat, September 16, 2023",4/15/1965,Male,0 - No Pain,None of the above,1 - Once A Day,Crest,0 - Zero times a year,Yes,United Health Care,,5.70697E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 14:10,Yes,89121,"Sat, September 16, 2023",12/23/1964,Female,,"Cavities
+Broken Teeth
+Sensitive Teeth",3 - Three Times A Day,Sensodyne,0 - Zero times a year,No,,,5.70697E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 14:44,Yes,89121,"Sat, September 16, 2023",1/7/1962,Male,0 - No Pain,,,,,Yes,United Health Care,,5.70699E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 14:48,Yes,No Response,"Sat, September 16, 2023",11/10/1959,Female,3 - Slight Pain,Bleeding Gums,2 - Twice A Day,Crest,1 - Once a year,No,,,5.70699E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 14:48,Yes,89122,"Sat, September 16, 2023",9/26/1962,Female,0 - No Pain,"Broken Teeth
+Sensitive Teeth
+Teeth Whitening",1 - Once A Day,Crest,1 - Once a year,No,,,5.70699E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 14:50,Yes,89122,"Sat, September 16, 2023",2/4/1962,Female,0 - No Pain,Teeth Whitening,2 - Twice A Day,Crest,2 - Twice a year,Yes,Other,Culinary,5.70699E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 14:51,Yes,89121,"Sat, September 16, 2023",12/16/1986,Male,0 - No Pain,"Cavities
+Bleeding Gums
+Broken Teeth",3 - Three Times A Day,Colgate,0 - Zero times a year,Yes,Humana Caresource Medicaid,,5.70699E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 14:52,No,No Response,"Sat, September 16, 2023",9/23/2009,Female,0 - No Pain,,2 - Twice A Day,Crest,0 - Zero times a year,No,,,5.707E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 14:54,Yes,No Response,"Sat, September 16, 2023",5/4/1984,Female,0 - No Pain,Cavities,2 - Twice A Day,Crest,0 - Zero times a year,No,,,5.707E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 15:01,No,89121,"Sat, September 16, 2023",1/8/2015,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,5+ - Five and or above times a year,Yes,Other,Molina,5.707E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 15:02,Yes,89121,"Sat, September 16, 2023",6/24/1966,Female,0 - No Pain,"Cavities
+Broken Teeth",2 - Twice A Day,Crest,1 - Once a year,Yes,Blue Cross,,5.707E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 15:02,Yes,89121,"Sat, September 16, 2023",9/23/1950,Female,3 - Slight Pain,"Cavities
+Tooth Ache
+Sensitive Teeth",2 - Twice A Day,Crest,1 - Once a year,Yes,Humana,,5.707E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 15:03,No,89121,"Sat, September 16, 2023",7/6/2012,Male,0 - No Pain,None of the above,2 - Twice A Day,Crest,5+ - Five and or above times a year,Yes,Other,Molina,5.707E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 15:14,Yes,Invalid,"Sat, September 16, 2023",03-18-1881,Female,0 - No Pain,,2 - Twice A Day,Crest,2 - Twice a year,No,,,5.70701E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 15:15,Yes,89121,"Sat, September 16, 2023",7/21/1970,Female,0 - No Pain,"Cavities
+Broken Teeth
+Teeth Whitening",1 - Once A Day,Crest,0 - Zero times a year,Yes,Humana Caresource Medicaid,,5.70701E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 15:21,Yes,89121,"Sat, September 16, 2023",4/25/1961,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,1 - Once a year,Yes,DentaQuest,,5.70701E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 15:26,Yes,89121,"Sat, September 16, 2023",6/22/2022,Male,0 - No Pain,None of the above,1 - Once A Day,Crest,2 - Twice a year,No,,,5.70702E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 15:28,Yes,89121,"Sat, September 16, 2023",1/9/2003,Female,3 - Slight Pain,"Cavities
+Broken Teeth",1 - Once A Day,Crest,1 - Once a year,Yes,Blue Anthem,,5.70702E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 15:31,Yes,89121,"Sat, September 16, 2023",6/26/2002,Male,3 - Slight Pain,None of the above,2 - Twice A Day,Crest,0 - Zero times a year,No,,,5.70702E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 15:36,No,89115,"Sat, September 16, 2023",1/10/2015,Male,0 - No Pain,None of the above,1 - Once A Day,Colgate,1 - Once a year,Yes,Anthem,,5.70702E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 15:41,Yes,89119,"Sat, September 16, 2023",4/8/1996,Female,0 - No Pain,"Cavities
+Teeth Grinding
+Tooth Ache
+Sensitive Teeth",2 - Twice A Day,Colgate,1 - Once a year,Yes,Other,Silver summit,5.70703E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 15:42,Yes,89119,"Sat, September 16, 2023",11/23/1992,Male,0 - No Pain,None of the above,2 - Twice A Day,Colgate,0 - Zero times a year,No,,,5.70703E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 15:46,No,89169,"Sat, September 16, 2023",10/7/2013,Female,0 - No Pain,Sensitive Teeth,2 - Twice A Day,Colgate,2 - Twice a year,Yes,Other,,5.70703E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 15:48,Yes,No Response,"Sat, September 16, 2023",11/25/1989,Male,0 - No Pain,,1 - Once A Day,,,No,,,5.70703E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 15:51,Yes,No Response,"Sat, September 16, 2023",4/30/1965,Female,0 - No Pain,,1 - Once A Day,,,Yes,,,5.70703E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 15:54,No,No Response,"Sat, September 16, 2023",4/26/2013,Female,0 - No Pain,,,,,No,,,5.70703E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 15:56,No,No Response,"Sat, September 16, 2023",11/28/2011,Male,0 - No Pain,,1 - Once A Day,Colgate,0 - Zero times a year,No,,,5.70703E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 15:56,No,No Response,"Sat, September 16, 2023",1/28/2011,Male,0 - No Pain,,1 - Once A Day,Crest,1 - Once a year,No,,,5.70703E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 15:56,Yes,89169,"Sat, September 16, 2023",5/7/1994,Female,0 - No Pain,"Cavities
+Bleeding Gums
+Broken Teeth
+Teeth Grinding
+Sensitive Teeth",2 - Twice A Day,Colgate,0 - Zero times a year,Yes,Other,Liberty,5.70703E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 16:06,Yes,89121,"Sat, September 16, 2023",10/21/1995,Female,0 - No Pain,Bleeding Gums,2 - Twice A Day,Sensodyne,1 - Once a year,Yes,Blue Cross,,5.70704E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 16:10,Yes,89120,"Sat, September 16, 2023",10/10/1990,Female,0 - No Pain,,1 - Once A Day,Crest,2 - Twice a year,No,,,5.70704E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 16:12,No,No Response,"Sat, September 16, 2023",4/6/2009,Female,,,2 - Twice A Day,Crest,2 - Twice a year,No,,,5.70704E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 16:14,No,No Response,"Sat, September 16, 2023",8/14/2004,Male,0 - No Pain,,1 - Once A Day,Crest,2 - Twice a year,No,,,5.70704E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 16:31,No,Invalid,"Sat, September 16, 2023",12/17/2004,Female,0 - No Pain,Cavities,2 - Twice A Day,Colgate,1 - Once a year,Yes,Anthem,,5.70705E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 16:33,No,89121,"Sat, September 16, 2023",3/23/2016,Female,0 - No Pain,Cavities,2 - Twice A Day,Crest,2 - Twice a year,Yes,Humana Caresource Medicaid,,5.70706E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 16:47,Yes,No Response,"Sat, September 16, 2023",8/2/1960,Female,,Cavities,2 - Twice A Day,Sensodyne,0 - Zero times a year,No,,,5.70706E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 17:01,Yes,89121,"Sat, September 16, 2023",3/8/2004,Male,0 - No Pain,"Cavities
+Tooth Ache",2 - Twice A Day,Colgate,1 - Once a year,No,,,5.70707E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/16/2023 17:33,Yes,No Response,"Sat, September 16, 2023",,,,Sensitive Teeth,,,,No,,,5.70709E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/17/2023 13:05,No,89115,"Sun, September 17, 2023",5/20/2012,Male,0 - No Pain,None of the above,,Crest,1 - Once a year,Yes,Other,,5.7078E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 13:08,No,89115,"Sun, September 17, 2023",6/15/2014,Female,0 - No Pain,None of the above,,Crest,1 - Once a year,Yes,,,5.7078E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 13:10,Yes,89115,"Sun, September 17, 2023",6/15/1989,Female,3 - Slight Pain,None of the above,1 - Once A Day,Crest,,Yes,,,5.7078E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 13:12,Yes,89115,"Sun, September 17, 2023",8/16/2007,Female,0 - No Pain,,2 - Twice A Day,Crest,1 - Once a year,Yes,Humana Caresource Medicaid,,5.7078E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 13:13,Yes,89115,"Sun, September 17, 2023",9/13/2006,Male,0 - No Pain,,1 - Once A Day,Crest,0 - Zero times a year,No,,,5.7078E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 13:16,Yes,89115,"Sun, September 17, 2023",6/5/2006,Female,0 - No Pain,Sensitive Teeth,2 - Twice A Day,Crest,1 - Once a year,Yes,Humana Caresource Medicaid,,5.7078E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 13:21,Yes,89166,"Sun, September 17, 2023",6/4/1954,Female,3 - Slight Pain,"Broken Teeth
+Sensitive Teeth",1 - Once A Day,Crest,1 - Once a year,No,,,5.7078E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 13:34,Yes,No Response,"Sun, September 17, 2023",7/11/1996,Male,0 - No Pain,None of the above,1 - Once A Day,Colgate,0 - Zero times a year,No,,,5.70781E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 13:40,Yes,89115,"Sun, September 17, 2023",10/21/1960,Female,0 - No Pain,None of the above,2 - Twice A Day,Colgate,1 - Once a year,No,,,5.70782E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 13:54,Yes,89108,"Sun, September 17, 2023",8/4/1984,Female,3 - Slight Pain,Bleeding Gums,4+ - Four+ Times A Day,Crest,2 - Twice a year,No,,,5.70782E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 13:56,Yes,89031,"Sun, September 17, 2023",12/25/1976,Male,5 - Moderate Pain,"Cavities
+Broken Teeth
+Tooth Ache",2 - Twice A Day,Colgate,2 - Twice a year,Yes,Anthem,,5.70783E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 13:59,No,89115,"Sat, September 16, 2023",,,,,1 - Once A Day,Crest,0 - Zero times a year,No,,,5.70783E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/17/2023 14:08,Yes,89156,"Sun, September 17, 2023",5/13/1987,Female,,Cavities,2 - Twice A Day,Colgate,1 - Once a year,Yes,Humana Caresource Medicaid,,5.70783E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 14:39,Yes,Invalid,"Sun, September 17, 2023",8/18/1996,Female,0 - No Pain,None of the above,2 - Twice A Day,Colgate,2 - Twice a year,Yes,Anthem,,5.70785E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 14:39,Yes,No Response,"Sun, September 17, 2023",9/18/1994,Male,0 - No Pain,None of the above,1 - Once A Day,Crest,0 - Zero times a year,No,,,5.70785E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 14:41,Yes,89110,"Sat, September 16, 2023",10/28/1987,Female,0 - No Pain,None of the above,2 - Twice A Day,Colgate,1 - Once a year,No,,,5.70785E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/17/2023 14:55,Yes,89032,"Sat, September 16, 2023",12/30/1971,Female,0 - No Pain,"Cavities
+Teeth Whitening",3 - Three Times A Day,Sensodyne,3 - Three times a year,Yes,Cigna Dental,,5.70786E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/17/2023 15:34,Yes,89115,"Sun, September 17, 2023",5/19/1961,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,1 - Once a year,Yes,Aetna Better Health,,5.70788E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 16:06,Yes,89115,"Sun, September 17, 2023",8/29/1956,Female,0 - No Pain,None of the above,2 - Twice A Day,Colgate,1 - Once a year,No,,,5.7079E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 16:08,No,89156,"Sun, September 17, 2023",6/22/2011,Male,0 - No Pain,,1 - Once A Day,Crest,1 - Once a year,No,,,5.7079E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 16:09,Yes,89156,"Sun, September 17, 2023",5/11/2012,Male,0 - No Pain,,1 - Once A Day,Crest,1 - Once a year,No,,,5.70791E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 16:11,Yes,89156,"Sun, September 17, 2023",7/22/2013,Male,0 - No Pain,,1 - Once A Day,Crest,1 - Once a year,No,,,5.70791E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 16:15,No,89115,"Sun, September 17, 2023",,,,,,,,No,,,5.70791E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 16:23,No,No Response,"Sat, September 16, 2023",9/17/2020,Female,0 - No Pain,None of the above,1 - Once A Day,Crest,0 - Zero times a year,No,,,5.70791E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/17/2023 16:27,Yes,89074,"Sun, September 17, 2023",3/9/1979,Male,5 - Moderate Pain,"Cavities
+Bleeding Gums
+Broken Teeth
+Sensitive Teeth",2 - Twice A Day,Colgate,0 - Zero times a year,No,,,5.70792E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 16:29,No,89074,"Sun, September 17, 2023",5/5/2010,Male,0 - No Pain,Cavities,2 - Twice A Day,Crest,1 - Once a year,No,,,5.70792E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 16:30,No,No Response,"Sat, September 16, 2023",3/30/2013,Male,,,,,,Yes,Other,Liberty,5.70792E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/17/2023 16:32,No,No Response,"Sun, September 17, 2023",11/2/2018,Female,,,,,,Yes,Other,Liberty,5.70792E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 16:33,No,No Response,"Sun, September 17, 2023",11/4/2015,Male,,,,,,No,,,5.70792E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 16:34,No,No Response,"Sun, September 17, 2023",12/23/2020,Female,,,,,,No,,,5.70792E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 16:36,No,89108,"Sat, September 16, 2023",7/7/2023,Male,0 - No Pain,Cavities,1 - Once A Day,Colgate,1 - Once a year,No,,,5.70792E+18,"Las Vegas, Nevada",Family Dollar,"3025 E Desert Inn Las Vegas, NV 89121"
+9/17/2023 17:06,No,No Response,"Sun, September 17, 2023",9/30/2018,Male,0 - No Pain,None of the above,1 - Once A Day,Arm & Hammer,1 - Once a year,No,,,5.70794E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 17:19,Yes,89115,"Sun, September 17, 2023",,,,,,,,No,,,5.70795E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 17:20,Yes,89115,"Sun, September 17, 2023",9/8/1954,Male,,,,,,No,,,5.70795E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 17:23,Yes,89115,"Sun, September 17, 2023",11/24/2009,Female,,"Cavities
+Broken Teeth
+Tooth Ache",2 - Twice A Day,Crest,0 - Zero times a year,No,,,5.70795E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 17:23,Yes,89115,"Sun, September 17, 2023",10/13/1991,Female,0 - No Pain,Cavities,1 - Once A Day,Crest,1 - Once a year,No,,,5.70795E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 17:26,Yes,89156,"Sun, September 17, 2023",7/26/1995,Male,0 - No Pain,"Cavities
+Broken Teeth
+Sensitive Teeth
+Teeth Whitening",2 - Twice A Day,Crest,1 - Once a year,Yes,Other,Hpn,5.70795E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 17:26,No,89101,"Sun, September 17, 2023",6/6/2018,Male,0 - No Pain,Cavities,1 - Once A Day,Crest,0 - Zero times a year,No,,,5.70795E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 17:27,Yes,89115,"Sun, September 17, 2023",2/23/1975,Male,3 - Slight Pain,"Cavities
+Bleeding Gums
+Broken Teeth
+Sensitive Teeth",1 - Once A Day,Crest,0 - Zero times a year,No,,,5.70795E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 17:28,No,89101,"Sun, September 17, 2023",10/9/2016,Male,0 - No Pain,,2 - Twice A Day,Crest,0 - Zero times a year,No,,,5.70795E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 17:29,Yes,No Response,"Sun, September 17, 2023",11/21/1983,Male,0 - No Pain,Cavities,2 - Twice A Day,Crest,1 - Once a year,No,,,5.70795E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 17:35,No,89115,"Sun, September 17, 2023",05-31-1201,Male,0 - No Pain,"Cavities
+Bleeding Gums",1 - Once A Day,Colgate,0 - Zero times a year,Yes,Anthem,,5.70796E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 17:35,Yes,89156,"Sun, September 17, 2023",11/15/1986,,0 - No Pain,Broken Teeth,2 - Twice A Day,Colgate,1 - Once a year,No,,,5.70796E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 17:35,No,No Response,"Sun, September 17, 2023",5/23/2012,Female,0 - No Pain,,,,,No,,,5.70796E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 17:37,Yes,No Response,"Sun, September 17, 2023",5/4/1988,Female,0 - No Pain,None of the above,1 - Once A Day,Crest,0 - Zero times a year,No,,,5.70796E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 17:38,Yes,No Response,"Sun, September 17, 2023",3/18/1978,Female,,,,,,No,,,5.70796E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"
+9/17/2023 17:39,Yes,No Response,"Sun, September 17, 2023",7/22/1981,Male,0 - No Pain,Cavities,,,,No,,,5.70796E+18,"Las Vegas, Nevada",Family Dollar,"4365 E Lake Meade Blvd Las Vegas, NV 89115"

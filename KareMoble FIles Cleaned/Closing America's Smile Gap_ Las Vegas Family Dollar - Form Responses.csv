@@ -1,0 +1,144 @@
+Submission Date,Is the patient over 18?,Postal / Zip Code,Country,Choose screening date?,Patient D.O.B.,Patient Gender,Is Patient  currently experiencing any pain ?,"Patient | Dental History, Please check all that apply",How often does Patient brush their teeth daily ?,Which toothpaste does Patient  use most ?,How often does Patient visit a dental office ?,Do you have dental insurance ?,Choose your insurance provider,Please enter your insurance provider,Submission ID
+9/14/23 10:53,Yes,89169,,"Sat, September 16, 2023",11/3/90,Female,0 - No Pain,"Cavities
+Teeth Grinding
+Jaw Joint Pain",1 - Once A Day,Colgate,1 - Once a year,No,,,5.70512E+18
+9/14/23 10:57,Yes,89169,,"Sat, September 16, 2023",3/15/71,Female,0 - No Pain,,1 - Once A Day,Colgate,1 - Once a year,No,,,5.70513E+18
+9/14/23 11:00,No,89169,,"Sat, September 16, 2023",11/9/07,Female,0 - No Pain,,1 - Once A Day,Colgate,1 - Once a year,No,,,5.70513E+18
+9/14/23 11:03,No,89169,,"Sat, September 16, 2023",1/30/13,Female,0 - No Pain,,3 - Three Times A Day,Colgate,1 - Once a year,Yes,Other,Medicaid,5.70513E+18
+9/16/23 13:03,No,89119,,"Sat, September 16, 2023",,,0 - No Pain,None of the above,2 - Twice A Day,Colgate,1 - Once a year,Yes,United Health Care,,5.70693E+18
+9/16/23 13:08,No,89119,,"Sat, September 16, 2023",5/2/14,Male,0 - No Pain,None of the above,1 - Once A Day,Colgate,1 - Once a year,Yes,Humana Caresource Medicaid,,5.70693E+18
+9/16/23 13:10,Yes,89101,,"Sat, September 16, 2023",9/25/95,Male,3 - Slight Pain,None of the above,1 - Once A Day,Crest,1 - Once a year,No,,,5.70693E+18
+9/16/23 13:11,No,89119,,"Sat, September 16, 2023",2/27/18,Male,3 - Slight Pain,Sensitive Teeth,1 - Once A Day,Colgate,1 - Once a year,Yes,Humana Caresource Medicaid,,5.70693E+18
+9/16/23 13:14,No,89119,,"Sat, September 16, 2023",8/31/15,Male,3 - Slight Pain,Sensitive Teeth,1 - Once A Day,Colgate,1 - Once a year,Yes,Humana Caresource Medicaid,,5.70694E+18
+9/16/23 13:17,No,89119,,"Sat, September 16, 2023",1/2/17,Female,0 - No Pain,Bleeding Gums,1 - Once A Day,Colgate,1 - Once a year,Yes,Humana Caresource Medicaid,,5.70694E+18
+9/16/23 13:39,Yes,89121,,"Sat, September 16, 2023",1/16/74,Male,0 - No Pain,"Cavities
+Bleeding Gums
+Broken Teeth
+Teeth Grinding",3 - Three Times A Day,Crest,0 - Zero times a year,No,,,5.70695E+18
+9/16/23 13:51,Yes,89121,,"Sat, September 16, 2023",4/24/78,Male,0 - No Pain,None of the above,3 - Three Times A Day,Crest,3 - Three times a year,No,,,5.70696E+18
+9/16/23 14:05,Yes,89104,,"Sat, September 16, 2023",7/10/68,Female,5 - Moderate Pain,"Cavities
+Bleeding Gums
+Broken Teeth
+Tooth Ache
+Sensitive Teeth",2 - Twice A Day,Colgate,2 - Twice a year,Yes,Anthem,,5.70697E+18
+9/16/23 14:08,Yes,89121,,"Sat, September 16, 2023",4/15/65,Male,0 - No Pain,None of the above,1 - Once A Day,Crest,0 - Zero times a year,Yes,United Health Care,,5.70697E+18
+9/16/23 14:10,Yes,89121,,"Sat, September 16, 2023",12/23/64,Female,,"Cavities
+Broken Teeth
+Sensitive Teeth",3 - Three Times A Day,Sensodyne,0 - Zero times a year,No,,,5.70697E+18
+9/16/23 14:44,Yes,89121,,"Sat, September 16, 2023",1/7/62,Male,0 - No Pain,,,,,Yes,United Health Care,,5.70699E+18
+9/16/23 14:48,Yes,,,"Sat, September 16, 2023",11/10/59,Female,3 - Slight Pain,Bleeding Gums,2 - Twice A Day,Crest,1 - Once a year,No,,,5.70699E+18
+9/16/23 14:48,Yes,89122,,"Sat, September 16, 2023",9/26/62,Female,0 - No Pain,"Broken Teeth
+Sensitive Teeth
+Teeth Whitening",1 - Once A Day,Crest,1 - Once a year,No,,,5.70699E+18
+9/16/23 14:50,Yes,89122,,"Sat, September 16, 2023",2/4/62,Female,0 - No Pain,Teeth Whitening,2 - Twice A Day,Crest,2 - Twice a year,Yes,Other,Culinary,5.70699E+18
+9/16/23 14:51,Yes,89121,,"Sat, September 16, 2023",12/16/86,Male,0 - No Pain,"Cavities
+Bleeding Gums
+Broken Teeth",3 - Three Times A Day,Colgate,0 - Zero times a year,Yes,Humana Caresource Medicaid,,5.70699E+18
+9/16/23 14:52,No,,,"Sat, September 16, 2023",9/23/09,Female,0 - No Pain,,2 - Twice A Day,Crest,0 - Zero times a year,No,,,5.707E+18
+9/16/23 14:54,Yes,,,"Sat, September 16, 2023",5/4/84,Female,0 - No Pain,Cavities,2 - Twice A Day,Crest,0 - Zero times a year,No,,,5.707E+18
+9/16/23 15:01,No,89121,,"Sat, September 16, 2023",1/8/15,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,5+ - Five and or above times a year,Yes,Other,Molina,5.707E+18
+9/16/23 15:02,Yes,89121,,"Sat, September 16, 2023",6/24/66,Female,0 - No Pain,"Cavities
+Broken Teeth",2 - Twice A Day,Crest,1 - Once a year,Yes,Blue Cross,,5.707E+18
+9/16/23 15:02,Yes,89121,,"Sat, September 16, 2023",9/23/50,Female,3 - Slight Pain,"Cavities
+Tooth Ache
+Sensitive Teeth",2 - Twice A Day,Crest,1 - Once a year,Yes,Humana,,5.707E+18
+9/16/23 15:03,No,89121,,"Sat, September 16, 2023",7/6/12,Male,0 - No Pain,None of the above,2 - Twice A Day,Crest,5+ - Five and or above times a year,Yes,Other,Molina,5.707E+18
+9/16/23 15:14,Yes,Las Vegas,,"Sat, September 16, 2023",03-18-1881,Female,0 - No Pain,,2 - Twice A Day,Crest,2 - Twice a year,No,,,5.70701E+18
+9/16/23 15:15,Yes,89121,,"Sat, September 16, 2023",7/21/70,Female,0 - No Pain,"Cavities
+Broken Teeth
+Teeth Whitening",1 - Once A Day,Crest,0 - Zero times a year,Yes,Humana Caresource Medicaid,,5.70701E+18
+9/16/23 15:21,Yes,89121,,"Sat, September 16, 2023",4/25/61,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,1 - Once a year,Yes,DentaQuest,,5.70701E+18
+9/16/23 15:26,Yes,89121,,"Sat, September 16, 2023",6/22/22,Male,0 - No Pain,None of the above,1 - Once A Day,Crest,2 - Twice a year,No,,,5.70702E+18
+9/16/23 15:28,Yes,89121,,"Sat, September 16, 2023",1/9/03,Female,3 - Slight Pain,"Cavities
+Broken Teeth",1 - Once A Day,Crest,1 - Once a year,Yes,Blue Anthem,,5.70702E+18
+9/16/23 15:31,Yes,89121,,"Sat, September 16, 2023",6/26/02,Male,3 - Slight Pain,None of the above,2 - Twice A Day,Crest,0 - Zero times a year,No,,,5.70702E+18
+9/16/23 15:36,No,89115,,"Sat, September 16, 2023",1/10/15,Male,0 - No Pain,None of the above,1 - Once A Day,Colgate,1 - Once a year,Yes,Anthem,,5.70702E+18
+9/16/23 15:41,Yes,89119,,"Sat, September 16, 2023",4/8/96,Female,0 - No Pain,"Cavities
+Teeth Grinding
+Tooth Ache
+Sensitive Teeth",2 - Twice A Day,Colgate,1 - Once a year,Yes,Other,Silver summit,5.70703E+18
+9/16/23 15:42,Yes,89119,,"Sat, September 16, 2023",11/23/92,Male,0 - No Pain,None of the above,2 - Twice A Day,Colgate,0 - Zero times a year,No,,,5.70703E+18
+9/16/23 15:46,No,89169,,"Sat, September 16, 2023",10/7/13,Female,0 - No Pain,Sensitive Teeth,2 - Twice A Day,Colgate,2 - Twice a year,Yes,Other,,5.70703E+18
+9/16/23 15:48,Yes,,,"Sat, September 16, 2023",11/25/89,Male,0 - No Pain,,1 - Once A Day,,,No,,,5.70703E+18
+9/16/23 15:51,Yes,,,"Sat, September 16, 2023",4/30/65,Female,0 - No Pain,,1 - Once A Day,,,Yes,,,5.70703E+18
+9/16/23 15:54,No,,,"Sat, September 16, 2023",4/26/13,Female,0 - No Pain,,,,,No,,,5.70703E+18
+9/16/23 15:56,No,,,"Sat, September 16, 2023",11/28/11,Male,0 - No Pain,,1 - Once A Day,Colgate,0 - Zero times a year,No,,,5.70703E+18
+9/16/23 15:56,No,,,"Sat, September 16, 2023",1/28/11,Male,0 - No Pain,,1 - Once A Day,Crest,1 - Once a year,No,,,5.70703E+18
+9/16/23 15:56,Yes,89169,,"Sat, September 16, 2023",5/7/94,Female,0 - No Pain,"Cavities
+Bleeding Gums
+Broken Teeth
+Teeth Grinding
+Sensitive Teeth",2 - Twice A Day,Colgate,0 - Zero times a year,Yes,Other,Liberty,5.70703E+18
+9/16/23 16:06,Yes,89121,,"Sat, September 16, 2023",10/21/95,Female,0 - No Pain,Bleeding Gums,2 - Twice A Day,Sensodyne,1 - Once a year,Yes,Blue Cross,,5.70704E+18
+9/16/23 16:10,Yes,89120,,"Sat, September 16, 2023",10/10/90,Female,0 - No Pain,,1 - Once A Day,Crest,2 - Twice a year,No,,,5.70704E+18
+9/16/23 16:12,No,,,"Sat, September 16, 2023",4/6/09,Female,,,2 - Twice A Day,Crest,2 - Twice a year,No,,,5.70704E+18
+9/16/23 16:14,No,,,"Sat, September 16, 2023",8/14/04,Male,0 - No Pain,,1 - Once A Day,Crest,2 - Twice a year,No,,,5.70704E+18
+9/16/23 16:31,No,8912@,,"Sat, September 16, 2023",12/17/04,Female,0 - No Pain,Cavities,2 - Twice A Day,Colgate,1 - Once a year,Yes,Anthem,,5.70705E+18
+9/16/23 16:33,No,89121,,"Sat, September 16, 2023",3/23/16,Female,0 - No Pain,Cavities,2 - Twice A Day,Crest,2 - Twice a year,Yes,Humana Caresource Medicaid,,5.70706E+18
+9/16/23 16:47,Yes,,,"Sat, September 16, 2023",8/2/60,Female,,Cavities,2 - Twice A Day,Sensodyne,0 - Zero times a year,No,,,5.70706E+18
+9/16/23 17:01,Yes,89121,,"Sat, September 16, 2023",3/8/04,Male,0 - No Pain,"Cavities
+Tooth Ache",2 - Twice A Day,Colgate,1 - Once a year,No,,,5.70707E+18
+9/16/23 17:33,Yes,,,"Sat, September 16, 2023",,,,Sensitive Teeth,,,,No,,,5.70709E+18
+9/17/23 13:05,No,89115,,"Sun, September 17, 2023",5/20/12,Male,0 - No Pain,None of the above,,Crest,1 - Once a year,Yes,Other,,5.7078E+18
+9/17/23 13:08,No,89115,,"Sun, September 17, 2023",6/15/14,Female,0 - No Pain,None of the above,,Crest,1 - Once a year,Yes,,,5.7078E+18
+9/17/23 13:10,Yes,89115,,"Sun, September 17, 2023",6/15/89,Female,3 - Slight Pain,None of the above,1 - Once A Day,Crest,,Yes,,,5.7078E+18
+9/17/23 13:12,Yes,89115,,"Sun, September 17, 2023",8/16/07,Female,0 - No Pain,,2 - Twice A Day,Crest,1 - Once a year,Yes,Humana Caresource Medicaid,,5.7078E+18
+9/17/23 13:13,Yes,89115,,"Sun, September 17, 2023",9/13/06,Male,0 - No Pain,,1 - Once A Day,Crest,0 - Zero times a year,No,,,5.7078E+18
+9/17/23 13:16,Yes,89115,,"Sun, September 17, 2023",6/5/06,Female,0 - No Pain,Sensitive Teeth,2 - Twice A Day,Crest,1 - Once a year,Yes,Humana Caresource Medicaid,,5.7078E+18
+9/17/23 13:21,Yes,89166,,"Sun, September 17, 2023",6/4/54,Female,3 - Slight Pain,"Broken Teeth
+Sensitive Teeth",1 - Once A Day,Crest,1 - Once a year,No,,,5.7078E+18
+9/17/23 13:34,Yes,,,"Sun, September 17, 2023",7/11/96,Male,0 - No Pain,None of the above,1 - Once A Day,Colgate,0 - Zero times a year,No,,,5.70781E+18
+9/17/23 13:40,Yes,89115,,"Sun, September 17, 2023",10/21/60,Female,0 - No Pain,None of the above,2 - Twice A Day,Colgate,1 - Once a year,No,,,5.70782E+18
+9/17/23 13:54,Yes,89108,,"Sun, September 17, 2023",8/4/84,Female,3 - Slight Pain,Bleeding Gums,4+ - Four+ Times A Day,Crest,2 - Twice a year,No,,,5.70782E+18
+9/17/23 13:56,Yes,89031,,"Sun, September 17, 2023",12/25/76,Male,5 - Moderate Pain,"Cavities
+Broken Teeth
+Tooth Ache",2 - Twice A Day,Colgate,2 - Twice a year,Yes,Anthem,,5.70783E+18
+9/17/23 13:59,No,89115,,"Sat, September 16, 2023",,,,,1 - Once A Day,Crest,0 - Zero times a year,No,,,5.70783E+18
+9/17/23 14:08,Yes,89156,,"Sun, September 17, 2023",5/13/87,Female,,Cavities,2 - Twice A Day,Colgate,1 - Once a year,Yes,Humana Caresource Medicaid,,5.70783E+18
+9/17/23 14:39,Yes,8911,,"Sun, September 17, 2023",8/18/96,Female,0 - No Pain,None of the above,2 - Twice A Day,Colgate,2 - Twice a year,Yes,Anthem,,5.70785E+18
+9/17/23 14:39,Yes,,,"Sun, September 17, 2023",9/18/94,Male,0 - No Pain,None of the above,1 - Once A Day,Crest,0 - Zero times a year,No,,,5.70785E+18
+9/17/23 14:41,Yes,89110,,"Sat, September 16, 2023",10/28/87,Female,0 - No Pain,None of the above,2 - Twice A Day,Colgate,1 - Once a year,No,,,5.70785E+18
+9/17/23 14:55,Yes,89032,,"Sat, September 16, 2023",12/30/71,Female,0 - No Pain,"Cavities
+Teeth Whitening",3 - Three Times A Day,Sensodyne,3 - Three times a year,Yes,Cigna Dental,,5.70786E+18
+9/17/23 15:34,Yes,89115,,"Sun, September 17, 2023",5/19/61,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,1 - Once a year,Yes,Aetna Better Health,,5.70788E+18
+9/17/23 16:06,Yes,89115,,"Sun, September 17, 2023",8/29/56,Female,0 - No Pain,None of the above,2 - Twice A Day,Colgate,1 - Once a year,No,,,5.7079E+18
+9/17/23 16:08,No,89156,,"Sun, September 17, 2023",6/22/11,Male,0 - No Pain,,1 - Once A Day,Crest,1 - Once a year,No,,,5.7079E+18
+9/17/23 16:09,Yes,89156,,"Sun, September 17, 2023",5/11/12,Male,0 - No Pain,,1 - Once A Day,Crest,1 - Once a year,No,,,5.70791E+18
+9/17/23 16:11,Yes,89156,,"Sun, September 17, 2023",7/22/13,Male,0 - No Pain,,1 - Once A Day,Crest,1 - Once a year,No,,,5.70791E+18
+9/17/23 16:15,No,89115,,"Sun, September 17, 2023",,,,,,,,No,,,5.70791E+18
+9/17/23 16:23,No,,,"Sat, September 16, 2023",9/17/20,Female,0 - No Pain,None of the above,1 - Once A Day,Crest,0 - Zero times a year,No,,,5.70791E+18
+9/17/23 16:27,Yes,89074,,"Sun, September 17, 2023",3/9/79,Male,5 - Moderate Pain,"Cavities
+Bleeding Gums
+Broken Teeth
+Sensitive Teeth",2 - Twice A Day,Colgate,0 - Zero times a year,No,,,5.70792E+18
+9/17/23 16:29,No,89074,,"Sun, September 17, 2023",5/5/10,Male,0 - No Pain,Cavities,2 - Twice A Day,Crest,1 - Once a year,No,,,5.70792E+18
+9/17/23 16:30,No,,,"Sat, September 16, 2023",3/30/13,Male,,,,,,Yes,Other,Liberty,5.70792E+18
+9/17/23 16:32,No,,,"Sun, September 17, 2023",11/2/18,Female,,,,,,Yes,Other,Liberty,5.70792E+18
+9/17/23 16:33,No,,,"Sun, September 17, 2023",11/4/15,Male,,,,,,No,,,5.70792E+18
+9/17/23 16:34,No,,,"Sun, September 17, 2023",12/23/20,Female,,,,,,No,,,5.70792E+18
+9/17/23 16:36,No,89108,,"Sat, September 16, 2023",7/7/23,Male,0 - No Pain,Cavities,1 - Once A Day,Colgate,1 - Once a year,No,,,5.70792E+18
+9/17/23 17:06,No,,,"Sun, September 17, 2023",9/30/18,Male,0 - No Pain,None of the above,1 - Once A Day,Arm & Hammer,1 - Once a year,No,,,5.70794E+18
+9/17/23 17:19,Yes,89115,,"Sun, September 17, 2023",,,,,,,,No,,,5.70795E+18
+9/17/23 17:20,Yes,89115,,"Sun, September 17, 2023",9/8/54,Male,,,,,,No,,,5.70795E+18
+9/17/23 17:23,Yes,89115,,"Sun, September 17, 2023",11/24/09,Female,,"Cavities
+Broken Teeth
+Tooth Ache",2 - Twice A Day,Crest,0 - Zero times a year,No,,,5.70795E+18
+9/17/23 17:23,Yes,89115,,"Sun, September 17, 2023",10/13/91,Female,0 - No Pain,Cavities,1 - Once A Day,Crest,1 - Once a year,No,,,5.70795E+18
+9/17/23 17:26,Yes,89156,,"Sun, September 17, 2023",7/26/95,Male,0 - No Pain,"Cavities
+Broken Teeth
+Sensitive Teeth
+Teeth Whitening",2 - Twice A Day,Crest,1 - Once a year,Yes,Other,Hpn,5.70795E+18
+9/17/23 17:26,No,89101,,"Sun, September 17, 2023",6/6/18,Male,0 - No Pain,Cavities,1 - Once A Day,Crest,0 - Zero times a year,No,,,5.70795E+18
+9/17/23 17:27,Yes,89115,,"Sun, September 17, 2023",2/23/75,Male,3 - Slight Pain,"Cavities
+Bleeding Gums
+Broken Teeth
+Sensitive Teeth",1 - Once A Day,Crest,0 - Zero times a year,No,,,5.70795E+18
+9/17/23 17:28,No,89101,,"Sun, September 17, 2023",10/9/16,Male,0 - No Pain,,2 - Twice A Day,Crest,0 - Zero times a year,No,,,5.70795E+18
+9/17/23 17:29,Yes,,,"Sun, September 17, 2023",11/21/83,Male,0 - No Pain,Cavities,2 - Twice A Day,Crest,1 - Once a year,No,,,5.70795E+18
+9/17/23 17:35,No,89115,,"Sun, September 17, 2023",05-31-1201,Male,0 - No Pain,"Cavities
+Bleeding Gums",1 - Once A Day,Colgate,0 - Zero times a year,Yes,Anthem,,5.70796E+18
+9/17/23 17:35,Yes,89156,,"Sun, September 17, 2023",11/15/86,,0 - No Pain,Broken Teeth,2 - Twice A Day,Colgate,1 - Once a year,No,,,5.70796E+18
+9/17/23 17:35,No,,,"Sun, September 17, 2023",5/23/12,Female,0 - No Pain,,,,,No,,,5.70796E+18
+9/17/23 17:37,Yes,,,"Sun, September 17, 2023",5/4/88,Female,0 - No Pain,None of the above,1 - Once A Day,Crest,0 - Zero times a year,No,,,5.70796E+18
+9/17/23 17:38,Yes,,,"Sun, September 17, 2023",3/18/78,Female,,,,,,No,,,5.70796E+18
+9/17/23 17:39,Yes,,,"Sun, September 17, 2023",7/22/81,Male,0 - No Pain,Cavities,,,,No,,,5.70796E+18

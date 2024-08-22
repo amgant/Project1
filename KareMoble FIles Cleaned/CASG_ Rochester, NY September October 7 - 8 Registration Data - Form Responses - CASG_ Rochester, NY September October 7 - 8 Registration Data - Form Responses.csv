@@ -1,0 +1,87 @@
+Submission Date,Is the patient over 18?,Zip Code,Country,Choose screening date,Patient D.O.B.,Patient Gender,Is Patient  currently experiencing any pain?,"Patient | Dental History, Please check all that apply",How often does Patient brush their teeth daily?,Which toothpaste does Patient  use most?,How often does Patient visit a dental office?,Do you have dental insurance?,Choose your insurance provider,Please enter your insurance provider,Unique ID,Submission ID
+2023-09-27 19:19:52,Yes,12345,,"Sun, October 8th, 2023",01-01-2001,Male,0 - No Pain,,1 - Once A Day,Crest,0 - Zero times a year,No,,,,5716659916127307860
+2023-10-07 8:22:13,Yes,12345,,"Sat, October 7th, 2023",01-01-2001,Male,,,,,,No,,,1,5724905326719230179
+2023-10-07 8:24:17,No,,,"Sun, October 8th, 2023",01-01-2015,Female,,,,,,No,,,2,5724906566718593501
+2023-10-07 9:26:29,Yes,,,"Sat, October 7th, 2023",01-01-1990,Male,0 - No Pain,"Cavities
+Jaw Joint Pain",2 - Twice A Day,Crest,2 - Twice a year,No,,,3,5724943883015862104
+2023-10-07 10:04:10,No,14617,,"Sat, October 7th, 2023",06-30-2016,Male,0 - No Pain,None of the above,1 - Once A Day,Crest,1 - Once a year,Yes,Humana Caresource Medicaid,,4,5724966499312092442
+2023-10-07 10:04:58,No,14617,,"Sat, October 7th, 2023",12-08-2013,Male,0 - No Pain,None of the above,1 - Once A Day,Crest,1 - Once a year,Yes,Humana Caresource Medicaid,,5,5724966979312884224
+2023-10-07 10:43:56,Yes,,,"Sat, October 7th, 2023",02-06-1978,Male,3 - Slight Pain,"Cavities
+Sensitive Teeth",2 - Twice A Day,Colgate,0 - Zero times a year,No,,,6,5724990357186012516
+2023-10-07 10:44:19,Yes,14621,,"Sat, October 7th, 2023",09-12-1940,Male,3 - Slight Pain,,,,,No,,,7,5724990583017857718
+2023-10-07 10:46:19,Yes,14621,,"Sat, October 7th, 2023",07-16-1967,Female,0 - No Pain,Cavities,2 - Twice A Day,Crest,1 - Once a year,Yes,Blue Cross,,8,5724991793017879359
+2023-10-07 11:14:16,Yes,14613,,"Sat, October 7th, 2023",12-17-1978,Female,0 - No Pain,"Cavities
+Broken Teeth",1 - Once A Day,Colgate,0 - Zero times a year,Yes,Other,Mvp,9,5725008567187016054
+2023-10-07 11:23:49,Yes,14617,,"Sat, October 7th, 2023",12-23-1957,Female,,None of the above,2 - Twice A Day,Arm & Hammer,2 - Twice a year,Yes,Blue Cross,,10,5725014297189233024
+2023-10-07 11:32:51,Yes,14616,,"Sat, October 7th, 2023",10-14-1993,Female,3 - Slight Pain,"Cavities
+Broken Teeth
+Teeth Grinding
+Jaw Joint Pain",1 - Once A Day,Sensodyne,0 - Zero times a year,No,,,11,5725019713017330228
+2023-10-07 11:35:51,Yes,14617,,"Sat, October 7th, 2023",08-04-1974,Female,5 - Moderate Pain,"Mouth Sores
+Dry Mouth
+Teeth Grinding
+Tooth Ache
+Sensitive Teeth",2 - Twice A Day,Sensodyne,1 - Once a year,Yes,Other,Healthplex,12,5725021507182116612
+2023-10-07 11:37:28,No,14617,,"Sat, October 7th, 2023",09-04-2020,Female,0 - No Pain,Cavities,1 - Once A Day,Crest,2 - Twice a year,Yes,Other,Healthplex,13,5725022487183126400
+2023-10-07 11:44:10,Yes,14616,,"Sat, October 7th, 2023",10-14-1993,Female,3 - Slight Pain,"Cavities
+Broken Teeth
+Teeth Grinding
+Jaw Joint Pain",1 - Once A Day,Sensodyne,0 - Zero times a year,No,,,14,5725026492419282441
+2023-10-07 11:49:12,Yes,14616,,"Sat, October 7th, 2023",03-06-1957,Male,0 - No Pain,"Cavities
+Bleeding Gums
+Broken Teeth",2 - Twice A Day,Crest,1 - Once a year,Yes,Blue Cross,,15,5725029523012062657
+2023-10-07 11:57:43,Yes,14621,,"Sat, October 7th, 2023",11-10-1962,Male,0 - No Pain,Broken Teeth,1 - Once A Day,Crest,0 - Zero times a year,No,,,16,5725034623011397289
+2023-10-07 12:07:18,Yes,14612,,"Sat, October 7th, 2023",11-04-1986,Male,0 - No Pain,None of the above,2 - Twice A Day,Crest,1 - Once a year,No,,,17,5725040384522687011
+2023-10-07 12:08:54,No,14612,,"Sat, October 7th, 2023",07-14-2010,Male,0 - No Pain,None of the above,2 - Twice A Day,Crest,1 - Once a year,No,,,18,5725041334526833315
+2023-10-07 12:09:12,Yes,,,"Sat, October 7th, 2023",11-10-1962,Male,0 - No Pain,"Cavities
+Bleeding Gums
+Dry Mouth
+Broken Teeth
+Teeth Grinding
+Jaw Joint Pain",1 - Once A Day,Crest,0 - Zero times a year,No,,,19,5725041513012794098
+2023-10-07 12:10:08,No,14612,,"Sat, October 7th, 2023",10-05-2014,Male,0 - No Pain,None of the above,2 - Twice A Day,Crest,1 - Once a year,No,,,20,5725042074529089979
+2023-10-07 12:11:04,No,14612,,"Sat, October 7th, 2023",08-17-2013,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,1 - Once a year,No,,,21,5725042634525781790
+2023-10-07 12:13:21,No,14612,,"Sat, October 7th, 2023",04-20-2007,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,1 - Once a year,No,,,22,5725044002323016494
+2023-10-07 12:14:34,No,14612,,"Sat, October 7th, 2023",12-28-2011,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,1 - Once a year,No,,,23,5725044732328770056
+2023-10-07 12:21:30,Yes,14621,,"Sat, October 7th, 2023",11-10-1963,Male,0 - No Pain,Broken Teeth,1 - Once A Day,Crest,0 - Zero times a year,No,,,24,5725048893014715253
+2023-10-07 12:27:20,No,14621,,"Sat, October 7th, 2023",02-25-2019,Male,0 - No Pain,None of the above,2 - Twice A Day,Crest,2 - Twice a year,Yes,Blue Cross,,25,5725052397188921390
+2023-10-07 12:28:29,Yes,14621,,"Sat, October 7th, 2023",02-27-1991,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,2 - Twice a year,Yes,Blue Cross,,26,5725053087186749707
+2023-10-07 12:35:58,Yes,14609,,"Sat, October 7th, 2023",07-12-1963,Female,,"Cavities
+Sensitive Teeth",2 - Twice A Day,Sensodyne,1 - Once a year,Yes,United Health Care,,27,5725057580434625787
+2023-10-07 12:38:26,No,14621,,"Sat, October 7th, 2023",08-06-2010,Male,0 - No Pain,None of the above,1 - Once A Day,Crest,1 - Once a year,Yes,Blue Cross,,28,5725059067183336671
+2023-10-07 12:39:30,Yes,14621,,"Sat, October 7th, 2023",08-16-1979,Female,3 - Slight Pain,"Broken Teeth
+Sensitive Teeth",1 - Once A Day,Crest,1 - Once a year,Yes,Blue Cross,,29,5725059697186074642
+2023-10-07 13:07:17,Yes,14621,,"Sat, October 7th, 2023",08-25-1981,Male,0 - No Pain,Cavities,2 - Twice A Day,Crest,1 - Once a year,No,,,30,5725076367189977167
+2023-10-07 13:11:39,Yes,14621,,"Sat, October 7th, 2023",03-16-1964,Male,0 - No Pain,,3 - Three Times A Day,Crest,2 - Twice a year,No,,,31,5725078997181126103
+2023-10-07 13:14:19,Yes,,,"Sat, October 7th, 2023",08-25-1982,Male,0 - No Pain,,2 - Twice A Day,Crest,1 - Once a year,No,,,32,5725080587181279608
+2023-10-07 13:17:00,Yes,14617,,"Sat, October 7th, 2023",10-04-1999,Female,0 - No Pain,Cavities,1 - Once A Day,Sensodyne,0 - Zero times a year,No,,,33,5725082190314609928
+2023-10-07 13:32:40,Yes,14617,,"Sat, October 7th, 2023",06-02-1952,Female,,None of the above,2 - Twice A Day,Crest,1 - Once a year,Yes,MetLife,,34,5725091597182430013
+2023-10-07 13:33:27,Yes,14617,,"Sat, October 7th, 2023",08-02-1965,Female,0 - No Pain,Sensitive Teeth,3 - Three Times A Day,Crest,2 - Twice a year,Yes,Other,,35,5725092067775666488
+2023-10-07 14:07:43,Yes,,,"Sat, October 7th, 2023",10-07-1992,Male,5 - Moderate Pain,,,,,No,,,37,5725112637183808450
+2023-10-07 14:14:43,Yes,14621-3853,,"Sat, October 7th, 2023",01-11-1987,Female,3 - Slight Pain,"Mouth Sores
+Dry Mouth
+Broken Teeth
+Tooth Ache
+Sensitive Teeth",1 - Once A Day,Colgate,0 - Zero times a year,No,,,38,5725116834231338379
+2023-10-07 14:14:56,Yes,,,"Sat, October 7th, 2023",05-03-1980,Male,,,,,,No,,,39,5725116960417754325
+2023-10-07 14:17:37,Yes,14617,,"Sat, October 7th, 2023",04-27-1950,Female,3 - Slight Pain,Sensitive Teeth,2 - Twice A Day,Crest,1 - Once a year,Yes,United Health Care,,40,5725118567186836896
+2023-10-07 14:22:54,Yes,14617,,"Sat, October 7th, 2023",03-24-1952,Female,0 - No Pain,Cavities,2 - Twice A Day,Crest,2 - Twice a year,Yes,United Health Care,,41,5725121747187014241
+2023-10-07 14:45:30,Yes,14618,,"Sat, October 7th, 2023",04-03-1962,Male,3 - Slight Pain,"Cavities
+Teeth Grinding",2 - Twice A Day,Aim,0 - Zero times a year,No,,,42,5725135297183382463
+2023-10-08 11:29:42,Yes,14615,,"Sat, October 7th, 2023",10-16-1996,Female,0 - No Pain,"Cavities
+Broken Teeth",2 - Twice A Day,,1 - Once a year,Yes,Blue Cross,,43,5725881817186229411
+2023-10-08 12:37:18,Yes,14621,,"Sat, October 7th, 2023",09-15-1996,Female,3 - Slight Pain,Cavities,2 - Twice A Day,Crest,0 - Zero times a year,Yes,Guardian,,44,5725922377189371530
+2023-10-08 12:43:21,Yes,14617,,"Sat, October 7th, 2023",10-11-1946,Female,0 - No Pain,Cavities,2 - Twice A Day,Sensodyne,0 - Zero times a year,Yes,Other,,45,5725926003011932527
+2023-10-08 13:16:08,Yes,14605,,"Sun, October 8th, 2023",11-22-1955,Female,,None of the above,1 - Once A Day,Colgate,0 - Zero times a year,Yes,Other,,46,5725945682682990062
+2023-10-08 13:18:14,Yes,14620,,"Sun, October 8th, 2023",11-28-1965,Male,0 - No Pain,,2 - Twice A Day,Crest,0 - Zero times a year,Yes,Other,Medicaid,47,5725946947181784403
+2023-10-08 13:28:22,Yes,14609,,"Sun, October 8th, 2023",05-23-1961,Female,3 - Slight Pain,"Cavities
+Broken Teeth
+Sensitive Teeth",3 - Three Times A Day,Colgate,0 - Zero times a year,Yes,Blue Cross,,48,5725953027184978791
+2023-10-08 14:03:07,Yes,14617,,"Sun, October 8th, 2023",09-11-1946,Male,0 - No Pain,Dry Mouth,2 - Twice A Day,Sensodyne,1 - Once a year,Yes,Wellcare,,49,5725973867187636382
+2023-10-08 14:17:42,Yes,14603,,"Sun, October 8th, 2023",11-08-1941,Male,0 - No Pain,None of the above,2 - Twice A Day,Colgate,1 - Once a year,No,,,50,5725982617189834669
+2023-10-08 14:35:31,Yes,14617,,"Sun, October 8th, 2023",08-06-1998,Female,0 - No Pain,None of the above,1 - Once A Day,Crest,5+ - Five and or above times a year,Yes,United Health Care,,51,5725993307184421302
+2023-10-08 14:50:42,Yes,14617,,"Sun, October 8th, 2023",05-20-1980,Female,0 - No Pain,"Cavities
+Broken Teeth
+Jaw Joint Pain",1 - Once A Day,Sensodyne,0 - Zero times a year,Yes,Blue Cross,,52,5726002417186286288
+2023-10-08 14:53:22,Yes,14559,,"Sun, October 8th, 2023",01-11-1979,Male,0 - No Pain,Teeth Whitening,1 - Once A Day,Arm & Hammer,2 - Twice a year,Yes,Blue Cross,,53,5726004017186575215
+2023-10-08 14:57:43,No,14621,,"Sun, October 8th, 2023",06-05-2013,Female,0 - No Pain,Cavities,2 - Twice A Day,Crest,2 - Twice a year,Yes,Blue Cross,,54,5726006637185446026

@@ -1,0 +1,226 @@
+Submission Date,Is the patient over 18?,Zip Code,Choose screening date,Patient D.O.B.,Patient Gender,Is Patient  currently experiencing any pain?,"Patient | Dental History, Please check all that apply",How often does Patient brush their teeth daily?,Which toothpaste does Patient  use most?,How often does Patient visit a dental office?,Do you have dental insurance?,Choose your insurance provider,Please enter your insurance provider,Submission ID,Location
+7/22/2023 11:04,Yes,53207,"Fri, July 22, 2023",4/12/1961,Female,0 - No Pain,"Cavities
+Broken Teeth
+Teeth Grinding
+Sensitive Teeth
+Jaw Joint Pain",2 - Twice A Day,Colgate,0 - Zero times a year,No,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 11:27,Yes,60473,"Fri, July 22, 2023",9/21/1976,Male,0 - No Pain,Cavities,1 - Once A Day,Colgate,1 - Once a year,Yes,MetLife,,5.66E+18,"Chicago, Illinois"
+7/22/2023 11:29,Yes,60621,"Fri, July 22, 2023",10/24/1977,Male,0 - No Pain,"Sensitive Teeth
+None of the above",2 - Twice A Day,Colgate,0 - Zero times a year,No,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 11:32,Yes,60636,"Fri, July 22, 2023",1/21/1996,Female,,None of the above,2 - Twice A Day,Colgate,2 - Twice a year,No,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 11:35,Yes,60409,"Fri, July 22, 2023",10/6/1998,Female,0 - No Pain,None of the above,2 - Twice A Day,Colgate,1 - Once a year,Yes,Dental Care Plus,,5.66E+18,"Chicago, Illinois"
+7/22/2023 11:36,Yes,60636,"Fri, July 22, 2023",1/9/2000,Male,,None of the above,2 - Twice A Day,Colgate,1 - Once a year,No,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 11:38,Yes,60620,"Fri, July 22, 2023",3/28/1995,Female,0 - No Pain,,2 - Twice A Day,Colgate,1 - Once a year,No,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 11:41,No,60619,"Fri, July 22, 2023",2/28/2015,Female,0 - No Pain,None of the above,1 - Once A Day,Colgate,1 - Once a year,No,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 11:42,Yes,60619,"Fri, July 22, 2023",6/6/1989,Male,0 - No Pain,"Cavities
+Sensitive Teeth",1 - Once A Day,Colgate,1 - Once a year,No,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 11:47,Yes,60619,"Fri, July 22, 2023",7/18/1960,Male,0 - No Pain,Cavities,2 - Twice A Day,Crest,1 - Once a year,No,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 11:59,Yes,60619,"Fri, July 22, 2023",12/24/1992,Female,0 - No Pain,Teeth Whitening,2 - Twice A Day,Arm & Hammer,2 - Twice a year,No,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 12:08,Yes,60616,"Fri, July 22, 2023",1/22/1969,Male,3 - Slight Pain,"Cavities
+Mouth Sores
+Bleeding Gums
+Broken Teeth
+Teeth Grinding
+Sensitive Teeth",1 - Once A Day,Crest,1 - Once a year,No,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 12:08,Yes,60617,"Fri, July 22, 2023",5/2/1994,Female,0 - No Pain,"Bleeding Gums
+Teeth Grinding",2 - Twice A Day,Colgate,1 - Once a year,Yes,Blue Cross,,5.66E+18,"Chicago, Illinois"
+7/22/2023 12:29,No,Chicago 69628,"Fri, July 22, 2023",4/3/2014,Male,0 - No Pain,"Cavities
+Mouth Sores
+Dry Mouth
+Broken Teeth
+Teeth Grinding
+Tooth Ache",1 - Once A Day,Crest,1 - Once a year,No,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 12:36,Yes,60620,"Fri, July 22, 2023",2/8/1957,Male,3 - Slight Pain,"Cavities
+Broken Teeth
+Teeth Grinding",1 - Once A Day,Colgate,0 - Zero times a year,No,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 12:47,No,60621,"Fri, July 22, 2023",12/21/2009,Female,,"Sensitive Teeth
+Jaw Joint Pain",1 - Once A Day,Colgate,1 - Once a year,No,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 12:48,Yes,60619,"Fri, July 22, 2023",3/18/1963,Female,,"Cavities
+Tooth Ache
+Sensitive Teeth",1 - Once A Day,Colgate,1 - Once a year,Yes,Aetna Better Health,,5.66E+18,"Chicago, Illinois"
+7/22/2023 12:52,Yes,60621,"Fri, July 22, 2023",2/29/1964,Female,,None of the above,1 - Once A Day,Colgate,1 - Once a year,No,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 12:57,Yes,60690,"Fri, July 22, 2023",1/18/1960,Female,3 - Slight Pain,"Bleeding Gums
+Dry Mouth
+Tooth Ache
+Sensitive Teeth
+Jaw Joint Pain",3 - Three Times A Day,Crest,0 - Zero times a year,No,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 13:02,Yes,60619,"Fri, July 22, 2023",6/20/1979,Male,,"Cavities
+Bleeding Gums
+Broken Teeth
+Tooth Ache",1 - Once A Day,Crest,0 - Zero times a year,No,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 13:04,No,,"Fri, July 22, 2023",5/2/2011,Female,0 - No Pain,Cavities,1 - Once A Day,Crest,1 - Once a year,Yes,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 13:05,No,,"Fri, July 22, 2023",,,0 - No Pain,Cavities,1 - Once A Day,Crest,1 - Once a year,Yes,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 13:08,No,,"Fri, July 22, 2023",,Male,0 - No Pain,Cavities,1 - Once A Day,Crest,1 - Once a year,Yes,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 13:15,Yes,60615,"Fri, July 22, 2023",7/6/1990,Male,0 - No Pain,,2 - Twice A Day,Colgate,0 - Zero times a year,No,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 13:18,Yes,60619,"Fri, July 22, 2023",3/3/1949,Female,5 - Moderate Pain,"Cavities
+Broken Teeth
+Sensitive Teeth",2 - Twice A Day,Crest,1 - Once a year,No,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 13:31,No,,"Fri, July 22, 2023",7/15/2016,Female,0 - No Pain,Cavities,2 - Twice A Day,Sensodyne,2 - Twice a year,Yes,Anthem,,5.66E+18,"Chicago, Illinois"
+7/22/2023 13:44,Yes,60619,"Fri, July 22, 2023",2/16/2016,Male,0 - No Pain,None of the above,2 - Twice A Day,,4 - Four times a year,No,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 13:45,Yes,60619,"Fri, July 22, 2023",7/24/1990,Female,3 - Slight Pain,Tooth Ache,3 - Three Times A Day,Crest,0 - Zero times a year,No,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 13:46,No,60619,"Fri, July 22, 2023",3/7/2018,Male,0 - No Pain,,1 - Once A Day,,,No,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 13:47,Yes,60636,"Fri, July 22, 2023",7/14/1957,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,1 - Once a year,Yes,Humana Caresource Medicaid,,5.66E+18,"Chicago, Illinois"
+7/22/2023 13:59,Yes,60620,"Fri, July 22, 2023",2/28/1978,Male,0 - No Pain,None of the above,1 - Once A Day,Colgate,1 - Once a year,No,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 14:06,Yes,60619,"Fri, July 22, 2023",12/22/1978,Female,0 - No Pain,"Cavities
+Broken Teeth
+Sensitive Teeth",2 - Twice A Day,Colgate,2 - Twice a year,Yes,Cigna Dental,,5.66E+18,"Chicago, Illinois"
+7/22/2023 14:27,No,60827,"Fri, July 22, 2023",12/3/2010,Male,3 - Slight Pain,"Cavities
+Sensitive Teeth
+Teeth Whitening",2 - Twice A Day,Crest,1 - Once a year,No,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 14:28,Yes,60827,"Fri, July 22, 2023",3/9/1988,Female,0 - No Pain,"Cavities
+Broken Teeth
+Teeth Whitening",2 - Twice A Day,Crest,1 - Once a year,No,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 14:32,Yes,60409,"Fri, July 22, 2023",10/6/1998,Female,0 - No Pain,None of the above,2 - Twice A Day,Colgate,1 - Once a year,Yes,Dental Care Plus,,5.66E+18,"Chicago, Illinois"
+7/22/2023 14:32,No,60649,"Fri, July 22, 2023",3/20/2009,Male,0 - No Pain,Cavities,2 - Twice A Day,Colgate,1 - Once a year,Yes,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 14:32,Yes,60617,"Fri, July 22, 2023",8/18/1953,Male,,,,,,Yes,Humana Caresource Medicaid,,5.66E+18,"Chicago, Illinois"
+7/22/2023 14:34,Yes,60619,"Fri, July 22, 2023",2/12/1957,Female,3 - Slight Pain,"Bleeding Gums
+Dry Mouth
+Sensitive Teeth",3 - Three Times A Day,Crest,1 - Once a year,Yes,Humana,,5.66E+18,"Chicago, Illinois"
+7/22/2023 14:34,No,,"Fri, July 22, 2023",,,,,,,,Yes,Humana Caresource Medicaid,,5.66E+18,"Chicago, Illinois"
+7/22/2023 15:02,Yes,,"Fri, July 22, 2023",9/23/1986,,0 - No Pain,,,,,No,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 15:05,Yes,60621,"Fri, July 22, 2023",5/16/1970,Female,0 - No Pain,"Broken Teeth
+Teeth Grinding",2 - Twice A Day,Crest,0 - Zero times a year,No,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 15:43,No,60619,"Fri, July 22, 2023",6/13/2009,Female,0 - No Pain,None of the above,2 - Twice A Day,Colgate,1 - Once a year,Yes,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 16:04,Yes,60629,"Fri, July 22, 2023",7/17/1964,Male,0 - No Pain,"Broken Teeth
+Sensitive Teeth
+Teeth Whitening",1 - Once A Day,Colgate,1 - Once a year,Yes,Cigna Dental,,5.66E+18,"Chicago, Illinois"
+7/22/2023 17:57,Yes,60620,"Fri, July 22, 2023",3/28/1995,Female,0 - No Pain,,2 - Twice A Day,Colgate,1 - Once a year,No,,,5.66E+18,"Chicago, Illinois"
+7/22/2023 20:31,Yes,60615,"Fri, July 22, 2023",7/6/1990,Male,0 - No Pain,,2 - Twice A Day,Colgate,0 - Zero times a year,No,,,5.66E+18,"Chicago, Illinois"
+7/23/2023 10:52,Yes,60619,"Sat, July 23, 2023",5/11/1979,Female,0 - No Pain,"Cavities
+Bleeding Gums
+Broken Teeth",1 - Once A Day,Crest,0 - Zero times a year,No,,,5.66E+18,"Chicago, Illinois"
+7/23/2023 10:55,Yes,60636,"Sat, July 23, 2023",2/27/1969,Female,,"Cavities
+Broken Teeth
+Tooth Ache
+Sensitive Teeth",2 - Twice A Day,Arm & Hammer,3 - Three times a year,Yes,,,5.66E+18,"Chicago, Illinois"
+7/23/2023 10:57,Yes,60621,"Sat, July 23, 2023",1/4/1952,Female,0 - No Pain,None of the above,4+ - Four+ Times A Day,Crest,2 - Twice a year,Yes,Other,Mutuall,5.66E+18,"Chicago, Illinois"
+7/23/2023 11:05,Yes,60619,"Sat, July 23, 2023",10/7/1966,Male,,"Bleeding Gums
+Broken Teeth",2 - Twice A Day,,0 - Zero times a year,Yes,,,5.66E+18,"Chicago, Illinois"
+7/23/2023 11:12,Yes,60619,"Sat, July 23, 2023",9/14/1993,Male,10 - This is an emergency!,"Broken Teeth
+Tooth Ache
+Sensitive Teeth",1 - Once A Day,Crest,0 - Zero times a year,Yes,Other,County Care,5.66E+18,"Chicago, Illinois"
+7/23/2023 11:13,Yes,60617,"Fri, July 22, 2023",5/2/1994,Female,0 - No Pain,"Bleeding Gums
+Teeth Grinding",2 - Twice A Day,Colgate,1 - Once a year,Yes,Blue Cross,,5.66E+18,"Chicago, Illinois"
+7/23/2023 11:22,Yes,60621,"Sat, July 23, 2023",9/14/1967,Female,0 - No Pain,Broken Teeth,2 - Twice A Day,Crest,1 - Once a year,Yes,Other,United,5.66E+18,"Chicago, Illinois"
+7/23/2023 11:22,Yes,49009,"Sat, July 23, 2023",4/26/1965,Female,0 - No Pain,Cavities,2 - Twice A Day,Crest,1 - Once a year,Yes,Other,Ascension,5.66E+18,"Chicago, Illinois"
+7/23/2023 11:30,Yes,60637,"Sat, July 23, 2023",6/16/1997,Male,0 - No Pain,,,,,Yes,Other,Ascension,5.66E+18,"Chicago, Illinois"
+7/23/2023 11:58,Yes,60637,"Sat, July 23, 2023",1/13/1963,Female,0 - No Pain,"Broken Teeth
+Teeth Grinding
+Sensitive Teeth
+Jaw Joint Pain",1 - Once A Day,Crest,3 - Three times a year,Yes,United Health Care,,5.66E+18,"Chicago, Illinois"
+7/23/2023 12:03,Yes,60620,"Sat, July 23, 2023",10/10/1986,Female,0 - No Pain,"Cavities
+Broken Teeth
+Teeth Whitening",2 - Twice A Day,Colgate,1 - Once a year,No,,,5.66E+18,"Chicago, Illinois"
+7/23/2023 12:13,No,60619,"Sat, July 23, 2023",5/5/2015,Male,,,,,,No,,,5.66E+18,"Chicago, Illinois"
+7/23/2023 12:22,Yes,60621,"Sat, July 23, 2023",1/8/1983,Male,0 - No Pain,"Cavities
+Tooth Ache
+Teeth Whitening",1 - Once A Day,Sensodyne,1 - Once a year,Yes,Other,United,5.66E+18,"Chicago, Illinois"
+7/23/2023 12:23,Yes,60621,"Sat, July 23, 2023",,,,,,,,Yes,Other,United,5.66E+18,"Chicago, Illinois"
+7/23/2023 12:23,Yes,60620,"Sat, July 23, 2023",4/27/1964,Female,7 - Severe Pain,"Cavities
+Mouth Sores
+Bleeding Gums
+Tooth Ache
+Sensitive Teeth",1 - Once A Day,Crest,1 - Once a year,Yes,,,5.66E+18,"Chicago, Illinois"
+7/23/2023 12:26,Yes,60619,"Sat, July 23, 2023",5/14/1951,Female,0 - No Pain,"Cavities
+Sensitive Teeth",2 - Twice A Day,Crest,2 - Twice a year,Yes,Other,United,5.66E+18,"Chicago, Illinois"
+7/23/2023 12:29,Yes,60609,"Sat, July 23, 2023",7/25/1962,Female,7 - Severe Pain,"Broken Teeth
+Tooth Ache
+Jaw Joint Pain",1 - Once A Day,Crest,0 - Zero times a year,Yes,Other,County Care,5.66E+18,"Chicago, Illinois"
+7/23/2023 12:45,Yes,60619,"Sat, July 23, 2023",8/19/1959,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,2 - Twice a year,Yes,Blue Cross,,5.66E+18,"Chicago, Illinois"
+7/23/2023 12:46,Yes,60619,"Sat, July 23, 2023",1/10/1944,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,0 - Zero times a year,Yes,Humana,,5.66E+18,"Chicago, Illinois"
+7/23/2023 12:47,Yes,60619,"Sat, July 23, 2023",,,,,,,,Yes,Blue Cross,,5.66E+18,"Chicago, Illinois"
+7/23/2023 12:51,Yes,60620,"Sat, July 23, 2023",10/19/1959,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,1 - Once a year,Yes,Blue Cross,,5.66E+18,"Chicago, Illinois"
+7/23/2023 12:55,Yes,60619,"Sat, July 23, 2023",10/29/1985,Female,,"Cavities
+Bleeding Gums
+Dry Mouth
+Tooth Ache
+Sensitive Teeth",1 - Once A Day,Crest,1 - Once a year,Yes,Humana,,5.66E+18,"Chicago, Illinois"
+7/23/2023 12:58,Yes,60655,"Sat, July 23, 2023",5/28/1968,Female,,Cavities,1 - Once A Day,Colgate,1 - Once a year,Yes,Blue Cross,,5.66E+18,"Chicago, Illinois"
+7/23/2023 13:01,Yes,,"Fri, July 22, 2023",4/9/1981,,0 - No Pain,,1 - Once A Day,Crest,2 - Twice a year,No,,,5.66E+18,"Chicago, Illinois"
+7/23/2023 13:05,Yes,Chicago,"Fri, July 22, 2023",4/26/1981,Male,3 - Slight Pain,Teeth Whitening,2 - Twice A Day,Colgate,3 - Three times a year,Yes,Other,,5.66E+18,"Chicago, Illinois"
+7/23/2023 13:05,Yes,60619,"Sat, July 23, 2023",1/30/1970,Male,3 - Slight Pain,Broken Teeth,1 - Once A Day,Crest,1 - Once a year,Yes,Delta Dental,,5.66E+18,"Chicago, Illinois"
+7/23/2023 13:06,No,60619,"Sat, July 23, 2023",7/10/2015,Female,0 - No Pain,Cavities,2 - Twice A Day,Crest,2 - Twice a year,Yes,Other,Meridian,5.66E+18,"Chicago, Illinois"
+7/23/2023 13:07,No,60619,"Sat, July 23, 2023",7/10/2015,Female,0 - No Pain,Cavities,2 - Twice A Day,Colgate,2 - Twice a year,Yes,Other,Meridian,5.66E+18,"Chicago, Illinois"
+7/23/2023 13:08,No,60619,"Sat, July 23, 2023",1/26/2019,Female,0 - No Pain,Cavities,2 - Twice A Day,Colgate,2 - Twice a year,Yes,Other,Meridian,5.66E+18,"Chicago, Illinois"
+7/23/2023 13:09,No,60617,"Sat, July 23, 2023",8/8/2013,Male,0 - No Pain,Cavities,1 - Once A Day,Crest,1 - Once a year,No,,,5.66E+18,"Chicago, Illinois"
+7/23/2023 13:15,Yes,60620,"Sat, July 23, 2023",4/10/1965,Male,,,,,,No,,,5.66E+18,"Chicago, Illinois"
+7/23/2023 13:19,Yes,60615,"Sat, July 23, 2023",8/5/2014,Female,5 - Moderate Pain,,2 - Twice A Day,Colgate,2 - Twice a year,Yes,Wellcare,,5.66E+18,"Chicago, Illinois"
+7/23/2023 13:30,Yes,60619,"Sat, July 23, 2023",8/23/1963,Male,0 - No Pain,Broken Teeth,1 - Once A Day,Arm & Hammer,2 - Twice a year,Yes,Aetna Better Health,,5.66E+18,"Chicago, Illinois"
+7/23/2023 13:35,Yes,60619,"Sat, July 23, 2023",9/8/1964,Male,,None of the above,3 - Three Times A Day,Colgate,1 - Once a year,Yes,Blue Cross,,5.66E+18,"Chicago, Illinois"
+7/23/2023 13:36,Yes,60430,"Sat, July 23, 2023",12/2/1968,Male,5 - Moderate Pain,"Cavities
+Broken Teeth
+Tooth Ache",2 - Twice A Day,Crest,0 - Zero times a year,No,,,5.66E+18,"Chicago, Illinois"
+7/23/2023 13:40,Yes,6832,"Sat, July 23, 2023",9/25/1989,Female,10 - This is an emergency!,Broken Teeth,2 - Twice A Day,Arm & Hammer,3 - Three times a year,Yes,Blue Cross,,5.66E+18,"Chicago, Illinois"
+7/23/2023 13:42,Yes,60636,"Fri, July 22, 2023",8/18/1968,Male,0 - No Pain,Broken Teeth,2 - Twice A Day,Crest,4 - Four times a year,Yes,Other,County,5.66E+18,"Chicago, Illinois"
+7/23/2023 13:48,Yes,60636,"Sat, July 23, 2023",9/12/1977,Female,0 - No Pain,None of the above,2 - Twice A Day,Colgate,2 - Twice a year,Yes,Aetna Better Health,,5.66E+18,"Chicago, Illinois"
+7/23/2023 13:49,Yes,Oakpark 60302,"Sat, July 23, 2023",1/6/1964,Male,3 - Slight Pain,"Bleeding Gums
+Sensitive Teeth",2 - Twice A Day,Sensodyne,2 - Twice a year,Yes,Blue Cross,,5.66E+18,"Chicago, Illinois"
+7/23/2023 13:55,Yes,60620,"Sat, July 23, 2023",7/22/1971,Male,0 - No Pain,"Cavities
+Mouth Sores
+Bleeding Gums
+Broken Teeth
+Teeth Grinding
+Tooth Ache
+Sensitive Teeth",3 - Three Times A Day,Crest,5+ - Five and or above times a year,No,,,5.66E+18,"Chicago, Illinois"
+7/23/2023 14:02,Yes,60636,"Sat, July 23, 2023",4/3/1971,Female,0 - No Pain,,1 - Once A Day,Colgate,1 - Once a year,Yes,Other,County care,5.66E+18,"Chicago, Illinois"
+7/23/2023 14:02,Yes,,"Sat, July 23, 2023",,,,,,,,No,,,5.66E+18,"Chicago, Illinois"
+7/23/2023 14:14,Yes,60620,"Sat, July 23, 2023",4/8/2002,Female,0 - No Pain,Bleeding Gums,1 - Once A Day,Sensodyne,0 - Zero times a year,Yes,Other,County care,5.66E+18,"Chicago, Illinois"
+7/23/2023 14:16,Yes,60619,"Sat, July 23, 2023",3/8/1969,Male,0 - No Pain,None of the above,2 - Twice A Day,Crest,1 - Once a year,Yes,Other,County Care,5.66E+18,"Chicago, Illinois"
+7/23/2023 14:16,Yes,60649,"Sat, July 23, 2023",7/24/1992,Male,7 - Severe Pain,"Mouth Sores
+Bleeding Gums
+Dry Mouth
+Teeth Whitening",2 - Twice A Day,Colgate,1 - Once a year,No,,,5.66E+18,"Chicago, Illinois"
+7/23/2023 14:21,Yes,,"Sat, July 23, 2023",10/26/1981,Male,0 - No Pain,"Cavities
+Bleeding Gums
+Tooth Ache",2 - Twice A Day,Colgate,1 - Once a year,Yes,Other,None,5.66E+18,"Chicago, Illinois"
+7/23/2023 14:36,Yes,60619,"Sat, July 23, 2023",3/12/1981,Male,0 - No Pain,None of the above,2 - Twice A Day,Colgate,2 - Twice a year,Yes,Other,,5.66E+18,"Chicago, Illinois"
+7/23/2023 14:38,Yes,,"Fri, July 22, 2023",3/26/1949,,0 - No Pain,"Cavities
+Teeth Whitening",1 - Once A Day,Colgate,4 - Four times a year,Yes,Humana Caresource Medicaid,,5.66E+18,"Chicago, Illinois"
+7/23/2023 14:45,Yes,60637,"Fri, July 22, 2023",3/2/1982,Male,,,2 - Twice A Day,Colgate,1 - Once a year,Yes,Humana Caresource Medicaid,,5.66E+18,"Chicago, Illinois"
+7/23/2023 14:47,Yes,60636,"Sat, July 23, 2023",,,,,,,,Yes,Other,,5.66E+18,"Chicago, Illinois"
+7/23/2023 14:49,Yes,60617,"Fri, July 22, 2023",5/14/1992,Female,5 - Moderate Pain,"Bleeding Gums
+Broken Teeth
+Tooth Ache
+Sensitive Teeth",2 - Twice A Day,Arm & Hammer,2 - Twice a year,Yes,Other,Meridian,5.66E+18,"Chicago, Illinois"
+7/23/2023 14:54,Yes,60636,"Sat, July 23, 2023",,Male,0 - No Pain,None of the above,2 - Twice A Day,,1 - Once a year,Yes,Delta Dental,,5.66E+18,"Chicago, Illinois"
+7/23/2023 14:57,Yes,60438,"Sat, July 23, 2023",2/16/1994,Male,0 - No Pain,"Cavities
+Bleeding Gums",2 - Twice A Day,Colgate,2 - Twice a year,No,,Na,5.66E+18,"Chicago, Illinois"
+7/23/2023 15:00,No,60619,"Sat, July 23, 2023",5/20/2018,Female,0 - No Pain,Cavities,1 - Once A Day,Crest,2 - Twice a year,No,,,5.66E+18,"Chicago, Illinois"
+7/23/2023 15:01,Yes,60620,"Sat, July 23, 2023",2/11/1965,Female,0 - No Pain,Broken Teeth,2 - Twice A Day,Colgate,2 - Twice a year,No,,,5.66E+18,"Chicago, Illinois"
+7/23/2023 15:01,Yes,60619,"Sat, July 23, 2023",9/8/2012,Female,0 - No Pain,Cavities,1 - Once A Day,Crest,1 - Once a year,No,,,5.66E+18,"Chicago, Illinois"
+7/23/2023 15:02,Yes,60805,"Sat, July 23, 2023",10/22/1953,Male,0 - No Pain,"Cavities
+Mouth Sores
+Bleeding Gums
+Broken Teeth
+Tooth Ache",1 - Once A Day,Colgate,2 - Twice a year,Yes,United Health Care,,5.66E+18,"Chicago, Illinois"
+7/23/2023 15:03,No,60619,"Sat, July 23, 2023",6/18/2010,Female,0 - No Pain,Cavities,1 - Once A Day,Crest,1 - Once a year,No,,,5.66E+18,"Chicago, Illinois"
+7/23/2023 15:04,Yes,60619,"Sat, July 23, 2023",4/28/1991,Female,0 - No Pain,Cavities,1 - Once A Day,Crest,1 - Once a year,No,,,5.66E+18,"Chicago, Illinois"
+7/23/2023 15:06,Yes,60637,"Sat, July 23, 2023",6/3/1950,Male,0 - No Pain,Teeth Whitening,2 - Twice A Day,Sensodyne,2 - Twice a year,Yes,Wellcare,,5.66E+18,"Chicago, Illinois"
+7/23/2023 15:06,No,,"Sat, July 23, 2023",3/8/2016,Female,0 - No Pain,Cavities,1 - Once A Day,Crest,2 - Twice a year,No,,,5.66E+18,"Chicago, Illinois"
+7/23/2023 15:07,Yes,60619,"Sat, July 23, 2023",10/18/1957,Female,0 - No Pain,None of the above,1 - Once A Day,Colgate,2 - Twice a year,Yes,MetLife,,5.66E+18,"Chicago, Illinois"
+7/23/2023 15:09,Yes,47375,"Sat, July 23, 2023",8/14/1964,Female,0 - No Pain,Cavities,2 - Twice A Day,Crest,2 - Twice a year,Yes,Cigna Dental,,5.66E+18,"Chicago, Illinois"
+7/23/2023 15:10,Yes,Chicago,"Sat, July 23, 2023",6/3/1965,Male,7 - Severe Pain,"Mouth Sores
+Tooth Ache",1 - Once A Day,Colgate,2 - Twice a year,No,,,5.66E+18,"Chicago, Illinois"
+7/23/2023 15:21,Yes,60637,"Sat, July 23, 2023",11/28/1984,Female,0 - No Pain,Cavities,1 - Once A Day,Colgate,1 - Once a year,Yes,Other,Country care,5.66E+18,"Chicago, Illinois"
+7/23/2023 15:21,Yes,60620,"Sat, July 23, 2023",11/21/1984,Male,3 - Slight Pain,"Bleeding Gums
+Broken Teeth
+Teeth Whitening",2 - Twice A Day,Colgate,0 - Zero times a year,Yes,Blue Cross,,5.66E+18,"Chicago, Illinois"
+7/23/2023 15:21,Yes,60619,"Sat, July 23, 2023",10/18/1957,Female,0 - No Pain,None of the above,2 - Twice A Day,Colgate,2 - Twice a year,Yes,Humana Caresource Medicaid,,5.66E+18,"Chicago, Illinois"
+7/23/2023 15:23,Yes,60619,"Sat, July 23, 2023",2/14/1961,Male,3 - Slight Pain,Cavities,2 - Twice A Day,Colgate,0 - Zero times a year,Yes,Blue Cross,,5.66E+18,"Chicago, Illinois"
+7/23/2023 15:25,Yes,60643,"Sat, July 23, 2023",3/12/1985,Female,0 - No Pain,"Cavities
+Bleeding Gums
+Broken Teeth
+Teeth Grinding
+Tooth Ache
+Sensitive Teeth",1 - Once A Day,Arm & Hammer,0 - Zero times a year,Yes,Delta Dental,,5.66E+18,"Chicago, Illinois"
+7/23/2023 15:28,Yes,60649,"Sat, July 23, 2023",5/29/1992,Male,0 - No Pain,,1 - Once A Day,Colgate,0 - Zero times a year,No,,,5.66E+18,"Chicago, Illinois"
+7/23/2023 15:30,No,,"Sat, July 23, 2023",9/2/2009,Female,0 - No Pain,,2 - Twice A Day,,,No,,,5.66E+18,"Chicago, Illinois"
+7/23/2023 15:31,Yes,60649,"Sat, July 23, 2023",4/29/2004,Female,0 - No Pain,None of the above,1 - Once A Day,Colgate,0 - Zero times a year,No,,,5.66E+18,"Chicago, Illinois"
+7/23/2023 15:33,Yes,,"Sat, July 23, 2023",7/17/1987,Female,0 - No Pain,,,,,Yes,Blue Cross,,5.66E+18,"Chicago, Illinois"
+7/23/2023 15:33,No,60649,"Sat, July 23, 2023",3/25/2017,Female,0 - No Pain,None of the above,1 - Once A Day,Colgate,0 - Zero times a year,No,,,5.66E+18,"Chicago, Illinois"
+7/23/2023 15:41,Yes,60426,"Sat, July 23, 2023",9/20/1957,Male,0 - No Pain,Dry Mouth,1 - Once A Day,Crest,1 - Once a year,Yes,Delta Dental,,5.66E+18,"Chicago, Illinois"
+7/23/2023 15:44,Yes,60637,"Sat, July 23, 2023",10/11/1978,Female,3 - Slight Pain,"Broken Teeth
+Tooth Ache",1 - Once A Day,Crest,1 - Once a year,Yes,Blue Cross,,5.66E+18,"Chicago, Illinois"
+7/23/2023 15:53,No,60621,"Sat, July 23, 2023",1/14/2016,Female,0 - No Pain,Cavities,3 - Three Times A Day,Colgate,1 - Once a year,No,,,5.66E+18,"Chicago, Illinois"
+7/23/2023 20:39,Yes,60637,"Sat, July 23, 2023",11/28/1984,Female,0 - No Pain,Cavities,1 - Once A Day,Colgate,1 - Once a year,Yes,Other,Country care,5.66E+18,"Chicago, Illinois"
+7/24/2023 12:39,Yes,60619,"Fri, July 22, 2023",12/24/1992,Female,0 - No Pain,Teeth Whitening,2 - Twice A Day,Arm & Hammer,2 - Twice a year,No,,,5.66E+18,"Chicago, Illinois"

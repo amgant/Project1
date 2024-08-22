@@ -1,0 +1,78 @@
+Submission Date,Is the patient over 18?,Zip Code,Choose screening date,Patient D.O.B.,Patient Gender,Is Patient  currently experiencing any pain?,"Patient | Dental History, Please check all that apply",How often does Patient brush their teeth daily?,Which toothpaste does Patient  use most?,How often does Patient visit a dental office?,Do you have dental insurance?,Choose your insurance provider,Please enter your insurance provider,Submission ID,Location,Retailer,Address
+8/12/2023 10:50,Yes,48227,"Sat, August 12, 2023",5/14/1975,Female,0 - No Pain,"Cavities
+Dry Mouth",2 - Twice A Day,Crest,1 - Once a year,Yes,Other,Golden demtal,5.68E+18,"Detroit, Michigan",Meijer,"25225 Schoenherr Rd Warren, MI 48089"
+8/12/2023 10:51,Yes,48227,"Sat, August 12, 2023",8/12/1995,Female,0 - No Pain,Cavities,2 - Twice A Day,Crest,1 - Once a year,No,,,5.68E+18,"Detroit, Michigan",Meijer,"25226 Schoenherr Rd Warren, MI 48089"
+8/12/2023 10:50,Yes,48227,"Sat, August 12, 2023",5/14/1975,Female,0 - No Pain,"Cavities
+Dry Mouth",2 - Twice A Day,Crest,1 - Once a year,Yes,Other,Golden demtal,5.68E+18,"Detroit, Michigan",Meijer,"25227 Schoenherr Rd Warren, MI 48089"
+8/12/2023 10:51,Yes,48227,"Sat, August 12, 2023",8/12/1995,Female,0 - No Pain,Cavities,2 - Twice A Day,Crest,1 - Once a year,No,,,5.68E+18,"Detroit, Michigan",Meijer,"25228 Schoenherr Rd Warren, MI 48089"
+8/12/2023 11:04,Yes,48092,"Sat, August 12, 2023",6/11/1970,Female,0 - No Pain,Broken Teeth,2 - Twice A Day,Crest,2 - Twice a year,Yes,Other,Blue cross,5.68E+18,"Detroit, Michigan",Meijer,"25229 Schoenherr Rd Warren, MI 48089"
+8/12/2023 11:08,Yes,48035,"Sat, August 12, 2023",11/30/1965,Female,0 - No Pain,,,Colgate,2 - Twice a year,Yes,,,5.68E+18,"Detroit, Michigan",Meijer,"25230 Schoenherr Rd Warren, MI 48089"
+8/12/2023 11:23,Yes,48092,"Sat, August 12, 2023",3/22/1967,Female,0 - No Pain,None of the above,2 - Twice A Day,Arm & Hammer,1 - Once a year,No,,,5.68E+18,"Detroit, Michigan",Meijer,"25231 Schoenherr Rd Warren, MI 48089"
+8/12/2023 11:29,No,48092,"Sat, August 12, 2023",1/25/2015,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,1 - Once a year,No,,,5.68E+18,"Detroit, Michigan",Meijer,"25232 Schoenherr Rd Warren, MI 48089"
+8/12/2023 11:31,No,48092,"Sat, August 12, 2023",3/30/2012,Female,,,2 - Twice A Day,Colgate,,Yes,Dental Care Plus,,5.68E+18,"Detroit, Michigan",Meijer,"25233 Schoenherr Rd Warren, MI 48089"
+8/13/2023 12:16,No,48212,"Sun, August 13, 2023",7/9/1986,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,1 - Once a year,Yes,Blue Cross,,5.68E+18,"Detroit, Michigan",Meijer,"25234 Schoenherr Rd Warren, MI 48089"
+8/13/2023 13:25,No,48091,"Sun, August 13, 2023",5/13/2019,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,2 - Twice a year,Yes,Blue Cross,,5.68E+18,"Detroit, Michigan",Meijer,"25235 Schoenherr Rd Warren, MI 48089"
+8/12/2023 11:48,Yes,48310,"Sat, August 12, 2023",12/16/1953,Male,0 - No Pain,None of the above,2 - Twice A Day,Crest,0 - Zero times a year,Yes,Blue Cross,,5.68E+18,"Detroit, Michigan",Meijer,"25236 Schoenherr Rd Warren, MI 48089"
+8/12/2023 12:02,Yes,48236,"Sat, August 12, 2023",9/19/1978,Female,5 - Moderate Pain,"Cavities
+Teeth Grinding",1 - Once A Day,Colgate,1 - Once a year,No,,,5.68E+18,"Detroit, Michigan",Meijer,"25237 Schoenherr Rd Warren, MI 48089"
+8/12/2023 12:10,Yes,48091,"Sat, August 12, 2023",8/21/1965,Female,0 - No Pain,Sensitive Teeth,3 - Three Times A Day,Crest,2 - Twice a year,Yes,United Health Care,,5.68E+18,"Detroit, Michigan",Meijer,"25238 Schoenherr Rd Warren, MI 48089"
+8/12/2023 12:35,No,48310,"Sat, August 12, 2023",9/17/2014,Female,0 - No Pain,Cavities,2 - Twice A Day,Crest,2 - Twice a year,Yes,Delta Dental,,5.68E+18,"Detroit, Michigan",Meijer,"25239 Schoenherr Rd Warren, MI 48089"
+8/12/2023 13:04,No,48092,"Sat, August 12, 2023",8/28/2021,Male,0 - No Pain,None of the above,1 - Once A Day,Crest,1 - Once a year,Yes,Delta Dental,,5.68E+18,"Detroit, Michigan",Meijer,"25240 Schoenherr Rd Warren, MI 48089"
+8/12/2023 13:05,No,48202,"Sat, August 12, 2023",2/8/2017,Male,0 - No Pain,,2 - Twice A Day,Crest,2 - Twice a year,No,,,5.68E+18,"Detroit, Michigan",Meijer,"25241 Schoenherr Rd Warren, MI 48089"
+8/12/2023 13:31,Yes,48093,"Sat, August 12, 2023",5/7/1963,Male,,,,,,Yes,,,5.68E+18,"Detroit, Michigan",Meijer,"25242 Schoenherr Rd Warren, MI 48089"
+8/12/2023 13:42,Yes,48091,"Sat, August 12, 2023",10/27/1951,Female,0 - No Pain,None of the above,1 - Once A Day,Crest,5+ - Five and or above times a year,Yes,Other,Potential,5.68E+18,"Detroit, Michigan",Meijer,"25243 Schoenherr Rd Warren, MI 48089"
+8/12/2023 13:57,No,48092,"Sat, August 12, 2023",9/1/2018,Female,0 - No Pain,None of the above,1 - Once A Day,Toms of Maine,2 - Twice a year,Yes,Other,,5.68E+18,"Detroit, Michigan",Meijer,"25244 Schoenherr Rd Warren, MI 48089"
+8/12/2023 15:08,Yes,48021,"Sat, August 12, 2023",1/31/1985,Female,0 - No Pain,"Cavities
+Broken Teeth",1 - Once A Day,Aim,0 - Zero times a year,Yes,Aetna Better Health,,5.68E+18,"Detroit, Michigan",Meijer,"25245 Schoenherr Rd Warren, MI 48089"
+8/12/2023 15:12,No,48021,"Sat, August 12, 2023",4/27/2014,Male,0 - No Pain,None of the above,1 - Once A Day,Colgate,1 - Once a year,Yes,Humana Caresource Medicaid,,5.68E+18,"Detroit, Michigan",Meijer,"25246 Schoenherr Rd Warren, MI 48089"
+8/12/2023 15:29,Yes,48091,"Sat, August 12, 2023",6/22/1981,Male,0 - No Pain,,1 - Once A Day,Sensodyne,2 - Twice a year,Yes,Delta Dental,,5.68E+18,"Detroit, Michigan",Meijer,"25247 Schoenherr Rd Warren, MI 48089"
+8/12/2023 15:31,No,48091,"Sat, August 12, 2023",4/17/2011,Male,0 - No Pain,,1 - Once A Day,Colgate,1 - Once a year,Yes,Delta Dental,,5.68E+18,"Detroit, Michigan",Meijer,"25248 Schoenherr Rd Warren, MI 48089"
+8/12/2023 15:48,No,48234,"Sat, August 12, 2023",4/16/2018,Female,0 - No Pain,None of the above,2 - Twice A Day,,,No,,,5.68E+18,"Detroit, Michigan",Meijer,"25249 Schoenherr Rd Warren, MI 48089"
+8/13/2023 10:14,Yes,48203,"Sun, August 13, 2023",3/25/1997,Male,0 - No Pain,None of the above,1 - Once A Day,Crest,2 - Twice a year,Yes,Other,Milina,5.68E+18,"Detroit, Michigan",Meijer,"25250 Schoenherr Rd Warren, MI 48089"
+8/13/2023 10:21,No,48066,"Sun, August 13, 2023",3/14/2018,Female,0 - No Pain,None of the above,2 - Twice A Day,,0 - Zero times a year,No,,,5.68E+18,"Detroit, Michigan",Meijer,"25251 Schoenherr Rd Warren, MI 48089"
+8/13/2023 10:24,Yes,40291,"Sun, August 13, 2023",4/9/1957,Male,,,,,,No,,,5.68E+18,"Detroit, Michigan",Meijer,"25252 Schoenherr Rd Warren, MI 48089"
+8/13/2023 10:40,Yes,48092,"Sun, August 13, 2023",8/5/1973,Female,0 - No Pain,"Cavities
+Bleeding Gums
+Dry Mouth
+Broken Teeth
+Teeth Grinding
+Tooth Ache
+Sensitive Teeth
+Jaw Joint Pain
+Teeth Whitening",1 - Once A Day,Colgate,2 - Twice a year,Yes,Other,,5.68E+18,"Detroit, Michigan",Meijer,"25253 Schoenherr Rd Warren, MI 48089"
+8/13/2023 11:05,Yes,48091,"Sun, August 13, 2023",12/10/1957,Male,0 - No Pain,"Cavities
+Bleeding Gums
+Broken Teeth
+Teeth Grinding
+Tooth Ache
+Sensitive Teeth",2 - Twice A Day,Crest,,Yes,Blue Cross,,5.68E+18,"Detroit, Michigan",Meijer,"25254 Schoenherr Rd Warren, MI 48089"
+8/13/2023 11:18,No,48091,"Sun, August 13, 2023",1/2/2008,Male,,,,,,Yes,Blue Cross,,5.68E+18,"Detroit, Michigan",Meijer,"25255 Schoenherr Rd Warren, MI 48089"
+8/13/2023 11:39,Yes,48234,"Sun, August 13, 2023",3/7/1981,Male,0 - No Pain,None of the above,1 - Once A Day,Crest,1 - Once a year,No,,,5.68E+18,"Detroit, Michigan",Meijer,"25256 Schoenherr Rd Warren, MI 48089"
+8/13/2023 11:40,Yes,48092,"Sun, August 13, 2023",10/16/1996,Female,,,,,,No,,,5.68E+18,"Detroit, Michigan",Meijer,"25257 Schoenherr Rd Warren, MI 48089"
+8/13/2023 11:41,Yes,48093,"Sun, August 13, 2023",3/26/1959,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,2 - Twice a year,Yes,Blue Cross,,5.68E+18,"Detroit, Michigan",Meijer,"25258 Schoenherr Rd Warren, MI 48089"
+8/13/2023 11:48,No,48312,"Sun, August 13, 2023",9/2/2019,Male,0 - No Pain,None of the above,2 - Twice A Day,Crest,0 - Zero times a year,No,,,5.68E+18,"Detroit, Michigan",Meijer,"25259 Schoenherr Rd Warren, MI 48089"
+8/13/2023 11:55,Yes,48207,"Sun, August 13, 2023",10/8/1983,Female,3 - Slight Pain,Tooth Ache,2 - Twice A Day,Crest,1 - Once a year,Yes,United Health Care,,5.68E+18,"Detroit, Michigan",Meijer,"25260 Schoenherr Rd Warren, MI 48089"
+8/13/2023 11:55,Yes,48088,"Sun, August 13, 2023",11/2/1954,Female,0 - No Pain,"Teeth Grinding
+Jaw Joint Pain",2 - Twice A Day,Sensodyne,3 - Three times a year,Yes,Other,,5.68E+18,"Detroit, Michigan",Meijer,"25261 Schoenherr Rd Warren, MI 48089"
+8/13/2023 12:04,Yes,48207,"Sun, August 13, 2023",1/2/2003,Female,,,,,,Yes,United Health Care,,5.68E+18,"Detroit, Michigan",Meijer,"25262 Schoenherr Rd Warren, MI 48089"
+8/13/2023 12:06,Yes,48234,"Sun, August 13, 2023",6/29/1989,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,2 - Twice a year,Yes,Other,,5.68E+18,"Detroit, Michigan",Meijer,"25263 Schoenherr Rd Warren, MI 48089"
+8/13/2023 12:07,Yes,48092,"Sun, August 13, 2023",4/17/2002,Male,0 - No Pain,None of the above,2 - Twice A Day,Colgate,1 - Once a year,No,,,5.68E+18,"Detroit, Michigan",Meijer,"25264 Schoenherr Rd Warren, MI 48089"
+8/13/2023 12:13,Yes,48237,"Sun, August 13, 2023",12/2/1954,Female,0 - No Pain,Sensitive Teeth,2 - Twice A Day,Sensodyne,2 - Twice a year,Yes,Delta Dental,,5.68E+18,"Detroit, Michigan",Meijer,"25265 Schoenherr Rd Warren, MI 48089"
+8/13/2023 12:30,Yes,48224,"Sun, August 13, 2023",9/28/1994,Male,0 - No Pain,None of the above,2 - Twice A Day,Crest,2 - Twice a year,Yes,Delta Dental,,5.68E+18,"Detroit, Michigan",Meijer,"25266 Schoenherr Rd Warren, MI 48089"
+8/13/2023 12:38,No,48092,"Sun, August 13, 2023",4/11/2014,Male,0 - No Pain,None of the above,1 - Once A Day,Crest,2 - Twice a year,Yes,Blue Cross,,5.68E+18,"Detroit, Michigan",Meijer,"25267 Schoenherr Rd Warren, MI 48089"
+8/13/2023 13:29,Yes,48091,"Sun, August 13, 2023",10/31/1990,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,1 - Once a year,Yes,United Health Care,,5.68E+18,"Detroit, Michigan",Meijer,"25268 Schoenherr Rd Warren, MI 48089"
+8/13/2023 13:57,No,48091,"Sun, August 13, 2023",9/25/2015,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,2 - Twice a year,Yes,Delta Dental,,5.68E+18,"Detroit, Michigan",Meijer,"25269 Schoenherr Rd Warren, MI 48089"
+8/13/2023 14:03,No,48091,"Sun, August 13, 2023",7/8/2020,Female,0 - No Pain,None of the above,2 - Twice A Day,Toms of Maine,1 - Once a year,Yes,Blue Cross,,5.68E+18,"Detroit, Michigan",Meijer,"25270 Schoenherr Rd Warren, MI 48089"
+8/13/2023 14:08,Yes,48221,"Sun, August 13, 2023",4/18/1958,Male,3 - Slight Pain,"Cavities
+Bleeding Gums
+Broken Teeth
+Sensitive Teeth
+Teeth Whitening",1 - Once A Day,Crest,1 - Once a year,Yes,Delta Dental,,5.68E+18,"Detroit, Michigan",Meijer,"25271 Schoenherr Rd Warren, MI 48089"
+8/13/2023 14:09,No,48092,"Sun, August 13, 2023",12/29/2015,Male,0 - No Pain,,2 - Twice A Day,Crest,2 - Twice a year,Yes,Blue Cross,,5.68E+18,"Detroit, Michigan",Meijer,"25272 Schoenherr Rd Warren, MI 48089"
+8/13/2023 14:23,No,48091,"Sun, August 13, 2023",10/3/2013,Female,0 - No Pain,None of the above,1 - Once A Day,Crest,1 - Once a year,No,,,5.68E+18,"Detroit, Michigan",Meijer,"25273 Schoenherr Rd Warren, MI 48089"
+8/13/2023 14:46,Yes,48127,"Sat, August 12, 2023",09-16-1198,Male,3 - Slight Pain,None of the above,2 - Twice A Day,Crest,1 - Once a year,No,,,5.68E+18,"Detroit, Michigan",Meijer,"25274 Schoenherr Rd Warren, MI 48089"
+8/13/2023 15:08,Yes,48091,"Sun, August 13, 2023",1/23/1969,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,2 - Twice a year,Yes,Aetna Better Health,,5.68E+18,"Detroit, Michigan",Meijer,"25275 Schoenherr Rd Warren, MI 48089"
+8/13/2023 15:16,Yes,48080,"Sun, August 13, 2023",6/16/1953,Male,5 - Moderate Pain,"Cavities
+Mouth Sores
+Bleeding Gums",1 - Once A Day,Toms of Maine,1 - Once a year,Yes,Blue Cross,,5.68E+18,"Detroit, Michigan",Meijer,"25276 Schoenherr Rd Warren, MI 48089"
+8/19/2023 17:36,Yes,97078,"Sat, August 12, 2023",7/23/1962,Male,0 - No Pain,None of the above,1 - Once A Day,Colgate,2 - Twice a year,Yes,United Health Care,,5.68E+18,"Detroit, Michigan",Meijer,"25277 Schoenherr Rd Warren, MI 48089"

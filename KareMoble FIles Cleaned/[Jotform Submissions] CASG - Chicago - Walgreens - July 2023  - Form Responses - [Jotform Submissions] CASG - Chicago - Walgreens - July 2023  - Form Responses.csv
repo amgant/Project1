@@ -1,0 +1,226 @@
+Submission Date,Is the patient over 18?,Postal / Zip Code,Choose screening date?,Patient D.O.B.,Patient Gender,Is Patient  currently experiencing any pain ?,"Patient | Dental History, Please check all that apply",How often does Patient brush their teeth daily ?,Which toothpaste does Patient  use most ?,How often does Patient visit a dental office ?,Do you have dental insurance ?,Choose your insurance provider,Please enter your insurance provider,Submission ID
+7/22/23 11:04,Yes,53207,"Fri, July 22, 2022",4/12/61,Female,0 - No Pain,"Cavities
+Broken Teeth
+Teeth Grinding
+Sensitive Teeth
+Jaw Joint Pain",2 - Twice A Day,Colgate,0 - Zero times a year,No,,,5.66E+18
+7/22/23 11:27,Yes,60473,"Fri, July 22, 2022",9/21/76,Male,0 - No Pain,Cavities,1 - Once A Day,Colgate,1 - Once a year,Yes,MetLife,,5.66E+18
+7/22/23 11:29,Yes,60621,"Fri, July 22, 2022",10/24/77,Male,0 - No Pain,"Sensitive Teeth
+None of the above",2 - Twice A Day,Colgate,0 - Zero times a year,No,,,5.66E+18
+7/22/23 11:32,Yes,60636,"Fri, July 22, 2022",1/21/96,Female,,None of the above,2 - Twice A Day,Colgate,2 - Twice a year,No,,,5.66E+18
+7/22/23 11:35,Yes,60409,"Fri, July 22, 2022",10/6/98,Female,0 - No Pain,None of the above,2 - Twice A Day,Colgate,1 - Once a year,Yes,Dental Care Plus,,5.66E+18
+7/22/23 11:36,Yes,60636,"Fri, July 22, 2022",1/9/00,Male,,None of the above,2 - Twice A Day,Colgate,1 - Once a year,No,,,5.66E+18
+7/22/23 11:38,Yes,60620,"Fri, July 22, 2022",3/28/95,Female,0 - No Pain,,2 - Twice A Day,Colgate,1 - Once a year,No,,,5.66E+18
+7/22/23 11:41,No,60619,"Fri, July 22, 2022",2/28/15,Female,0 - No Pain,None of the above,1 - Once A Day,Colgate,1 - Once a year,No,,,5.66E+18
+7/22/23 11:42,Yes,60619,"Fri, July 22, 2022",6/6/89,Male,0 - No Pain,"Cavities
+Sensitive Teeth",1 - Once A Day,Colgate,1 - Once a year,No,,,5.66E+18
+7/22/23 11:47,Yes,60619,"Fri, July 22, 2022",7/18/60,Male,0 - No Pain,Cavities,2 - Twice A Day,Crest,1 - Once a year,No,,,5.66E+18
+7/22/23 11:59,Yes,60619,"Fri, July 22, 2022",12/24/92,Female,0 - No Pain,Teeth Whitening,2 - Twice A Day,Arm & Hammer,2 - Twice a year,No,,,5.66E+18
+7/22/23 12:08,Yes,60616,"Fri, July 22, 2022",1/22/69,Male,3 - Slight Pain,"Cavities
+Mouth Sores
+Bleeding Gums
+Broken Teeth
+Teeth Grinding
+Sensitive Teeth",1 - Once A Day,Crest,1 - Once a year,No,,,5.66E+18
+7/22/23 12:08,Yes,60617,"Fri, July 22, 2022",5/2/94,Female,0 - No Pain,"Bleeding Gums
+Teeth Grinding",2 - Twice A Day,Colgate,1 - Once a year,Yes,Blue Cross,,5.66E+18
+7/22/23 12:29,No,Chicago 69628,"Fri, July 22, 2022",4/3/14,Male,0 - No Pain,"Cavities
+Mouth Sores
+Dry Mouth
+Broken Teeth
+Teeth Grinding
+Tooth Ache",1 - Once A Day,Crest,1 - Once a year,No,,,5.66E+18
+7/22/23 12:36,Yes,60620,"Fri, July 22, 2022",2/8/57,Male,3 - Slight Pain,"Cavities
+Broken Teeth
+Teeth Grinding",1 - Once A Day,Colgate,0 - Zero times a year,No,,,5.66E+18
+7/22/23 12:47,No,60621,"Fri, July 22, 2022",12/21/09,Female,,"Sensitive Teeth
+Jaw Joint Pain",1 - Once A Day,Colgate,1 - Once a year,No,,,5.66E+18
+7/22/23 12:48,Yes,60619,"Fri, July 22, 2022",3/18/63,Female,,"Cavities
+Tooth Ache
+Sensitive Teeth",1 - Once A Day,Colgate,1 - Once a year,Yes,Aetna Better Health,,5.66E+18
+7/22/23 12:52,Yes,60621,"Fri, July 22, 2022",2/29/64,Female,,None of the above,1 - Once A Day,Colgate,1 - Once a year,No,,,5.66E+18
+7/22/23 12:57,Yes,60690,"Fri, July 22, 2022",1/18/60,Female,3 - Slight Pain,"Bleeding Gums
+Dry Mouth
+Tooth Ache
+Sensitive Teeth
+Jaw Joint Pain",3 - Three Times A Day,Crest,0 - Zero times a year,No,,,5.66E+18
+7/22/23 13:02,Yes,60619,"Fri, July 22, 2022",6/20/79,Male,,"Cavities
+Bleeding Gums
+Broken Teeth
+Tooth Ache",1 - Once A Day,Crest,0 - Zero times a year,No,,,5.66E+18
+7/22/23 13:04,No,,"Fri, July 22, 2022",5/2/11,Female,0 - No Pain,Cavities,1 - Once A Day,Crest,1 - Once a year,Yes,,,5.66E+18
+7/22/23 13:05,No,,"Fri, July 22, 2022",,,0 - No Pain,Cavities,1 - Once A Day,Crest,1 - Once a year,Yes,,,5.66E+18
+7/22/23 13:08,No,,"Fri, July 22, 2022",,Male,0 - No Pain,Cavities,1 - Once A Day,Crest,1 - Once a year,Yes,,,5.66E+18
+7/22/23 13:15,Yes,60615,"Fri, July 22, 2022",7/6/90,Male,0 - No Pain,,2 - Twice A Day,Colgate,0 - Zero times a year,No,,,5.66E+18
+7/22/23 13:18,Yes,60619,"Fri, July 22, 2022",3/3/49,Female,5 - Moderate Pain,"Cavities
+Broken Teeth
+Sensitive Teeth",2 - Twice A Day,Crest,1 - Once a year,No,,,5.66E+18
+7/22/23 13:31,No,,"Fri, July 22, 2022",7/15/16,Female,0 - No Pain,Cavities,2 - Twice A Day,Sensodyne,2 - Twice a year,Yes,Anthem,,5.66E+18
+7/22/23 13:44,Yes,60619,"Fri, July 22, 2022",2/16/16,Male,0 - No Pain,None of the above,2 - Twice A Day,,4 - Four times a year,No,,,5.66E+18
+7/22/23 13:45,Yes,60619,"Fri, July 22, 2022",7/24/90,Female,3 - Slight Pain,Tooth Ache,3 - Three Times A Day,Crest,0 - Zero times a year,No,,,5.66E+18
+7/22/23 13:46,No,60619,"Fri, July 22, 2022",3/7/18,Male,0 - No Pain,,1 - Once A Day,,,No,,,5.66E+18
+7/22/23 13:47,Yes,60636,"Fri, July 22, 2022",7/14/57,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,1 - Once a year,Yes,Humana Caresource Medicaid,,5.66E+18
+7/22/23 13:59,Yes,60620,"Fri, July 22, 2022",2/28/78,Male,0 - No Pain,None of the above,1 - Once A Day,Colgate,1 - Once a year,No,,,5.66E+18
+7/22/23 14:06,Yes,60619,"Fri, July 22, 2022",12/22/78,Female,0 - No Pain,"Cavities
+Broken Teeth
+Sensitive Teeth",2 - Twice A Day,Colgate,2 - Twice a year,Yes,Cigna Dental,,5.66E+18
+7/22/23 14:27,No,60827,"Fri, July 22, 2022",12/3/10,Male,3 - Slight Pain,"Cavities
+Sensitive Teeth
+Teeth Whitening",2 - Twice A Day,Crest,1 - Once a year,No,,,5.66E+18
+7/22/23 14:28,Yes,60827,"Fri, July 22, 2022",3/9/88,Female,0 - No Pain,"Cavities
+Broken Teeth
+Teeth Whitening",2 - Twice A Day,Crest,1 - Once a year,No,,,5.66E+18
+7/22/23 14:32,Yes,60409,"Fri, July 22, 2022",10/6/98,Female,0 - No Pain,None of the above,2 - Twice A Day,Colgate,1 - Once a year,Yes,Dental Care Plus,,5.66E+18
+7/22/23 14:32,No,60649,"Fri, July 22, 2022",3/20/09,Male,0 - No Pain,Cavities,2 - Twice A Day,Colgate,1 - Once a year,Yes,,,5.66E+18
+7/22/23 14:32,Yes,60617,"Fri, July 22, 2022",8/18/53,Male,,,,,,Yes,Humana Caresource Medicaid,,5.66E+18
+7/22/23 14:34,Yes,60619,"Fri, July 22, 2022",2/12/57,Female,3 - Slight Pain,"Bleeding Gums
+Dry Mouth
+Sensitive Teeth",3 - Three Times A Day,Crest,1 - Once a year,Yes,Humana,,5.66E+18
+7/22/23 14:34,No,,"Fri, July 22, 2022",,,,,,,,Yes,Humana Caresource Medicaid,,5.66E+18
+7/22/23 15:02,Yes,,"Fri, July 22, 2022",9/23/86,,0 - No Pain,,,,,No,,,5.66E+18
+7/22/23 15:05,Yes,60621,"Fri, July 22, 2022",5/16/70,Female,0 - No Pain,"Broken Teeth
+Teeth Grinding",2 - Twice A Day,Crest,0 - Zero times a year,No,,,5.66E+18
+7/22/23 15:43,No,60619,"Fri, July 22, 2022",6/13/09,Female,0 - No Pain,None of the above,2 - Twice A Day,Colgate,1 - Once a year,Yes,,,5.66E+18
+7/22/23 16:04,Yes,60629,"Fri, July 22, 2022",7/17/64,Male,0 - No Pain,"Broken Teeth
+Sensitive Teeth
+Teeth Whitening",1 - Once A Day,Colgate,1 - Once a year,Yes,Cigna Dental,,5.66E+18
+7/22/23 17:57,Yes,60620,"Fri, July 22, 2022",3/28/95,Female,0 - No Pain,,2 - Twice A Day,Colgate,1 - Once a year,No,,,5.66E+18
+7/22/23 20:31,Yes,60615,"Fri, July 22, 2022",7/6/90,Male,0 - No Pain,,2 - Twice A Day,Colgate,0 - Zero times a year,No,,,5.66E+18
+7/23/23 10:52,Yes,60619,"Sat, July 23, 2022",5/11/79,Female,0 - No Pain,"Cavities
+Bleeding Gums
+Broken Teeth",1 - Once A Day,Crest,0 - Zero times a year,No,,,5.66E+18
+7/23/23 10:55,Yes,60636,"Sat, July 23, 2022",2/27/69,Female,,"Cavities
+Broken Teeth
+Tooth Ache
+Sensitive Teeth",2 - Twice A Day,Arm & Hammer,3 - Three times a year,Yes,,,5.66E+18
+7/23/23 10:57,Yes,60621,"Sat, July 23, 2022",1/4/52,Female,0 - No Pain,None of the above,4+ - Four+ Times A Day,Crest,2 - Twice a year,Yes,Other,Mutuall,5.66E+18
+7/23/23 11:05,Yes,60619,"Sat, July 23, 2022",10/7/66,Male,,"Bleeding Gums
+Broken Teeth",2 - Twice A Day,,0 - Zero times a year,Yes,,,5.66E+18
+7/23/23 11:12,Yes,60619,"Sat, July 23, 2022",9/14/93,Male,10 - This is an emergency!,"Broken Teeth
+Tooth Ache
+Sensitive Teeth",1 - Once A Day,Crest,0 - Zero times a year,Yes,Other,County Care,5.66E+18
+7/23/23 11:13,Yes,60617,"Fri, July 22, 2022",5/2/94,Female,0 - No Pain,"Bleeding Gums
+Teeth Grinding",2 - Twice A Day,Colgate,1 - Once a year,Yes,Blue Cross,,5.66E+18
+7/23/23 11:22,Yes,60621,"Sat, July 23, 2022",9/14/67,Female,0 - No Pain,Broken Teeth,2 - Twice A Day,Crest,1 - Once a year,Yes,Other,United,5.66E+18
+7/23/23 11:22,Yes,49009,"Sat, July 23, 2022",4/26/65,Female,0 - No Pain,Cavities,2 - Twice A Day,Crest,1 - Once a year,Yes,Other,Ascension,5.66E+18
+7/23/23 11:30,Yes,60637,"Sat, July 23, 2022",6/16/97,Male,0 - No Pain,,,,,Yes,Other,Ascension,5.66E+18
+7/23/23 11:58,Yes,60637,"Sat, July 23, 2022",1/13/63,Female,0 - No Pain,"Broken Teeth
+Teeth Grinding
+Sensitive Teeth
+Jaw Joint Pain",1 - Once A Day,Crest,3 - Three times a year,Yes,United Health Care,,5.66E+18
+7/23/23 12:03,Yes,60620,"Sat, July 23, 2022",10/10/86,Female,0 - No Pain,"Cavities
+Broken Teeth
+Teeth Whitening",2 - Twice A Day,Colgate,1 - Once a year,No,,,5.66E+18
+7/23/23 12:13,No,60619,"Sat, July 23, 2022",5/5/15,Male,,,,,,No,,,5.66E+18
+7/23/23 12:22,Yes,60621,"Sat, July 23, 2022",1/8/83,Male,0 - No Pain,"Cavities
+Tooth Ache
+Teeth Whitening",1 - Once A Day,Sensodyne,1 - Once a year,Yes,Other,United,5.66E+18
+7/23/23 12:23,Yes,60621,"Sat, July 23, 2022",,,,,,,,Yes,Other,United,5.66E+18
+7/23/23 12:23,Yes,60620,"Sat, July 23, 2022",4/27/64,Female,7 - Severe Pain,"Cavities
+Mouth Sores
+Bleeding Gums
+Tooth Ache
+Sensitive Teeth",1 - Once A Day,Crest,1 - Once a year,Yes,,,5.66E+18
+7/23/23 12:26,Yes,60619,"Sat, July 23, 2022",5/14/51,Female,0 - No Pain,"Cavities
+Sensitive Teeth",2 - Twice A Day,Crest,2 - Twice a year,Yes,Other,United,5.66E+18
+7/23/23 12:29,Yes,60609,"Sat, July 23, 2022",7/25/62,Female,7 - Severe Pain,"Broken Teeth
+Tooth Ache
+Jaw Joint Pain",1 - Once A Day,Crest,0 - Zero times a year,Yes,Other,County Care,5.66E+18
+7/23/23 12:45,Yes,60619,"Sat, July 23, 2022",8/19/59,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,2 - Twice a year,Yes,Blue Cross,,5.66E+18
+7/23/23 12:46,Yes,60619,"Sat, July 23, 2022",1/10/44,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,0 - Zero times a year,Yes,Humana,,5.66E+18
+7/23/23 12:47,Yes,60619,"Sat, July 23, 2022",,,,,,,,Yes,Blue Cross,,5.66E+18
+7/23/23 12:51,Yes,60620,"Sat, July 23, 2022",10/19/59,Female,0 - No Pain,None of the above,2 - Twice A Day,Crest,1 - Once a year,Yes,Blue Cross,,5.66E+18
+7/23/23 12:55,Yes,60619,"Sat, July 23, 2022",10/29/85,Female,,"Cavities
+Bleeding Gums
+Dry Mouth
+Tooth Ache
+Sensitive Teeth",1 - Once A Day,Crest,1 - Once a year,Yes,Humana,,5.66E+18
+7/23/23 12:58,Yes,60655,"Sat, July 23, 2022",5/28/68,Female,,Cavities,1 - Once A Day,Colgate,1 - Once a year,Yes,Blue Cross,,5.66E+18
+7/23/23 13:01,Yes,,"Fri, July 22, 2022",4/9/81,,0 - No Pain,,1 - Once A Day,Crest,2 - Twice a year,No,,,5.66E+18
+7/23/23 13:05,Yes,Chicago,"Fri, July 22, 2022",4/26/81,Male,3 - Slight Pain,Teeth Whitening,2 - Twice A Day,Colgate,3 - Three times a year,Yes,Other,,5.66E+18
+7/23/23 13:05,Yes,60619,"Sat, July 23, 2022",1/30/70,Male,3 - Slight Pain,Broken Teeth,1 - Once A Day,Crest,1 - Once a year,Yes,Delta Dental,,5.66E+18
+7/23/23 13:06,No,60619,"Sat, July 23, 2022",7/10/15,Female,0 - No Pain,Cavities,2 - Twice A Day,Crest,2 - Twice a year,Yes,Other,Meridian,5.66E+18
+7/23/23 13:07,No,60619,"Sat, July 23, 2022",7/10/15,Female,0 - No Pain,Cavities,2 - Twice A Day,Colgate,2 - Twice a year,Yes,Other,Meridian,5.66E+18
+7/23/23 13:08,No,60619,"Sat, July 23, 2022",1/26/19,Female,0 - No Pain,Cavities,2 - Twice A Day,Colgate,2 - Twice a year,Yes,Other,Meridian,5.66E+18
+7/23/23 13:09,No,60617,"Sat, July 23, 2022",8/8/13,Male,0 - No Pain,Cavities,1 - Once A Day,Crest,1 - Once a year,No,,,5.66E+18
+7/23/23 13:15,Yes,60620,"Sat, July 23, 2022",4/10/65,Male,,,,,,No,,,5.66E+18
+7/23/23 13:19,Yes,60615,"Sat, July 23, 2022",8/5/14,Female,5 - Moderate Pain,,2 - Twice A Day,Colgate,2 - Twice a year,Yes,Wellcare,,5.66E+18
+7/23/23 13:30,Yes,60619,"Sat, July 23, 2022",8/23/63,Male,0 - No Pain,Broken Teeth,1 - Once A Day,Arm & Hammer,2 - Twice a year,Yes,Aetna Better Health,,5.66E+18
+7/23/23 13:35,Yes,60619,"Sat, July 23, 2022",9/8/64,Male,,None of the above,3 - Three Times A Day,Colgate,1 - Once a year,Yes,Blue Cross,,5.66E+18
+7/23/23 13:36,Yes,60430,"Sat, July 23, 2022",12/2/68,Male,5 - Moderate Pain,"Cavities
+Broken Teeth
+Tooth Ache",2 - Twice A Day,Crest,0 - Zero times a year,No,,,5.66E+18
+7/23/23 13:40,Yes,6832,"Sat, July 23, 2022",9/25/89,Female,10 - This is an emergency!,Broken Teeth,2 - Twice A Day,Arm & Hammer,3 - Three times a year,Yes,Blue Cross,,5.66E+18
+7/23/23 13:42,Yes,60636,"Fri, July 22, 2022",8/18/68,Male,0 - No Pain,Broken Teeth,2 - Twice A Day,Crest,4 - Four times a year,Yes,Other,County,5.66E+18
+7/23/23 13:48,Yes,60636,"Sat, July 23, 2022",9/12/77,Female,0 - No Pain,None of the above,2 - Twice A Day,Colgate,2 - Twice a year,Yes,Aetna Better Health,,5.66E+18
+7/23/23 13:49,Yes,Oakpark 60302,"Sat, July 23, 2022",1/6/64,Male,3 - Slight Pain,"Bleeding Gums
+Sensitive Teeth",2 - Twice A Day,Sensodyne,2 - Twice a year,Yes,Blue Cross,,5.66E+18
+7/23/23 13:55,Yes,60620,"Sat, July 23, 2022",7/22/71,Male,0 - No Pain,"Cavities
+Mouth Sores
+Bleeding Gums
+Broken Teeth
+Teeth Grinding
+Tooth Ache
+Sensitive Teeth",3 - Three Times A Day,Crest,5+ - Five and or above times a year,No,,,5.66E+18
+7/23/23 14:02,Yes,60636,"Sat, July 23, 2022",4/3/71,Female,0 - No Pain,,1 - Once A Day,Colgate,1 - Once a year,Yes,Other,County care,5.66E+18
+7/23/23 14:02,Yes,,"Sat, July 23, 2022",,,,,,,,No,,,5.66E+18
+7/23/23 14:14,Yes,60620,"Sat, July 23, 2022",4/8/02,Female,0 - No Pain,Bleeding Gums,1 - Once A Day,Sensodyne,0 - Zero times a year,Yes,Other,County care,5.66E+18
+7/23/23 14:16,Yes,60619,"Sat, July 23, 2022",3/8/69,Male,0 - No Pain,None of the above,2 - Twice A Day,Crest,1 - Once a year,Yes,Other,County Care,5.66E+18
+7/23/23 14:16,Yes,60649,"Sat, July 23, 2022",7/24/92,Male,7 - Severe Pain,"Mouth Sores
+Bleeding Gums
+Dry Mouth
+Teeth Whitening",2 - Twice A Day,Colgate,1 - Once a year,No,,,5.66E+18
+7/23/23 14:21,Yes,,"Sat, July 23, 2022",10/26/81,Male,0 - No Pain,"Cavities
+Bleeding Gums
+Tooth Ache",2 - Twice A Day,Colgate,1 - Once a year,Yes,Other,None,5.66E+18
+7/23/23 14:36,Yes,60619,"Sat, July 23, 2022",3/12/81,Male,0 - No Pain,None of the above,2 - Twice A Day,Colgate,2 - Twice a year,Yes,Other,,5.66E+18
+7/23/23 14:38,Yes,,"Fri, July 22, 2022",3/26/49,,0 - No Pain,"Cavities
+Teeth Whitening",1 - Once A Day,Colgate,4 - Four times a year,Yes,Humana Caresource Medicaid,,5.66E+18
+7/23/23 14:45,Yes,60637,"Fri, July 22, 2022",3/2/82,Male,,,2 - Twice A Day,Colgate,1 - Once a year,Yes,Humana Caresource Medicaid,,5.66E+18
+7/23/23 14:47,Yes,60636,"Sat, July 23, 2022",,,,,,,,Yes,Other,,5.66E+18
+7/23/23 14:49,Yes,60617,"Fri, July 22, 2022",5/14/92,Female,5 - Moderate Pain,"Bleeding Gums
+Broken Teeth
+Tooth Ache
+Sensitive Teeth",2 - Twice A Day,Arm & Hammer,2 - Twice a year,Yes,Other,Meridian,5.66E+18
+7/23/23 14:54,Yes,60636,"Sat, July 23, 2022",,Male,0 - No Pain,None of the above,2 - Twice A Day,,1 - Once a year,Yes,Delta Dental,,5.66E+18
+7/23/23 14:57,Yes,60438,"Sat, July 23, 2022",2/16/94,Male,0 - No Pain,"Cavities
+Bleeding Gums",2 - Twice A Day,Colgate,2 - Twice a year,No,,Na,5.66E+18
+7/23/23 15:00,No,60619,"Sat, July 23, 2022",5/20/18,Female,0 - No Pain,Cavities,1 - Once A Day,Crest,2 - Twice a year,No,,,5.66E+18
+7/23/23 15:01,Yes,60620,"Sat, July 23, 2022",2/11/65,Female,0 - No Pain,Broken Teeth,2 - Twice A Day,Colgate,2 - Twice a year,No,,,5.66E+18
+7/23/23 15:01,Yes,60619,"Sat, July 23, 2022",9/8/12,Female,0 - No Pain,Cavities,1 - Once A Day,Crest,1 - Once a year,No,,,5.66E+18
+7/23/23 15:02,Yes,60805,"Sat, July 23, 2022",10/22/53,Male,0 - No Pain,"Cavities
+Mouth Sores
+Bleeding Gums
+Broken Teeth
+Tooth Ache",1 - Once A Day,Colgate,2 - Twice a year,Yes,United Health Care,,5.66E+18
+7/23/23 15:03,No,60619,"Sat, July 23, 2022",6/18/10,Female,0 - No Pain,Cavities,1 - Once A Day,Crest,1 - Once a year,No,,,5.66E+18
+7/23/23 15:04,Yes,60619,"Sat, July 23, 2022",4/28/91,Female,0 - No Pain,Cavities,1 - Once A Day,Crest,1 - Once a year,No,,,5.66E+18
+7/23/23 15:06,Yes,60637,"Sat, July 23, 2022",6/3/50,Male,0 - No Pain,Teeth Whitening,2 - Twice A Day,Sensodyne,2 - Twice a year,Yes,Wellcare,,5.66E+18
+7/23/23 15:06,No,,"Sat, July 23, 2022",3/8/16,Female,0 - No Pain,Cavities,1 - Once A Day,Crest,2 - Twice a year,No,,,5.66E+18
+7/23/23 15:07,Yes,60619,"Sat, July 23, 2022",10/18/57,Female,0 - No Pain,None of the above,1 - Once A Day,Colgate,2 - Twice a year,Yes,MetLife,,5.66E+18
+7/23/23 15:09,Yes,47375,"Sat, July 23, 2022",8/14/64,Female,0 - No Pain,Cavities,2 - Twice A Day,Crest,2 - Twice a year,Yes,Cigna Dental,,5.66E+18
+7/23/23 15:10,Yes,Chicago,"Sat, July 23, 2022",6/3/65,Male,7 - Severe Pain,"Mouth Sores
+Tooth Ache",1 - Once A Day,Colgate,2 - Twice a year,No,,,5.66E+18
+7/23/23 15:21,Yes,60637,"Sat, July 23, 2022",11/28/84,Female,0 - No Pain,Cavities,1 - Once A Day,Colgate,1 - Once a year,Yes,Other,Country care,5.66E+18
+7/23/23 15:21,Yes,60620,"Sat, July 23, 2022",11/21/84,Male,3 - Slight Pain,"Bleeding Gums
+Broken Teeth
+Teeth Whitening",2 - Twice A Day,Colgate,0 - Zero times a year,Yes,Blue Cross,,5.66E+18
+7/23/23 15:21,Yes,60619,"Sat, July 23, 2022",10/18/57,Female,0 - No Pain,None of the above,2 - Twice A Day,Colgate,2 - Twice a year,Yes,Humana Caresource Medicaid,,5.66E+18
+7/23/23 15:23,Yes,60619,"Sat, July 23, 2022",2/14/61,Male,3 - Slight Pain,Cavities,2 - Twice A Day,Colgate,0 - Zero times a year,Yes,Blue Cross,,5.66E+18
+7/23/23 15:25,Yes,60643,"Sat, July 23, 2022",3/12/85,Female,0 - No Pain,"Cavities
+Bleeding Gums
+Broken Teeth
+Teeth Grinding
+Tooth Ache
+Sensitive Teeth",1 - Once A Day,Arm & Hammer,0 - Zero times a year,Yes,Delta Dental,,5.66E+18
+7/23/23 15:28,Yes,60649,"Sat, July 23, 2022",5/29/92,Male,0 - No Pain,,1 - Once A Day,Colgate,0 - Zero times a year,No,,,5.66E+18
+7/23/23 15:30,No,,"Sat, July 23, 2022",9/2/09,Female,0 - No Pain,,2 - Twice A Day,,,No,,,5.66E+18
+7/23/23 15:31,Yes,60649,"Sat, July 23, 2022",4/29/04,Female,0 - No Pain,None of the above,1 - Once A Day,Colgate,0 - Zero times a year,No,,,5.66E+18
+7/23/23 15:33,Yes,,"Sat, July 23, 2022",7/17/87,Female,0 - No Pain,,,,,Yes,Blue Cross,,5.66E+18
+7/23/23 15:33,No,60649,"Sat, July 23, 2022",3/25/17,Female,0 - No Pain,None of the above,1 - Once A Day,Colgate,0 - Zero times a year,No,,,5.66E+18
+7/23/23 15:41,Yes,60426,"Sat, July 23, 2022",9/20/57,Male,0 - No Pain,Dry Mouth,1 - Once A Day,Crest,1 - Once a year,Yes,Delta Dental,,5.66E+18
+7/23/23 15:44,Yes,60637,"Sat, July 23, 2022",10/11/78,Female,3 - Slight Pain,"Broken Teeth
+Tooth Ache",1 - Once A Day,Crest,1 - Once a year,Yes,Blue Cross,,5.66E+18
+7/23/23 15:53,No,60621,"Sat, July 23, 2022",1/14/16,Female,0 - No Pain,Cavities,3 - Three Times A Day,Colgate,1 - Once a year,No,,,5.66E+18
+7/23/23 20:39,Yes,60637,"Sat, July 23, 2022",11/28/84,Female,0 - No Pain,Cavities,1 - Once A Day,Colgate,1 - Once a year,Yes,Other,Country care,5.66E+18
+7/24/23 12:39,Yes,60619,"Fri, July 22, 2022",12/24/92,Female,0 - No Pain,Teeth Whitening,2 - Twice A Day,Arm & Hammer,2 - Twice a year,No,,,5.66E+18
