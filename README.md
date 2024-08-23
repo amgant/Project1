@@ -41,13 +41,25 @@ A relational database was created inside Power Query - 3 tables for Behaviors, D
 * Are there trends around specific retailer chains?
 * Are there trends around specific days of the week?
 
-## Conclusion
-<ins>In dashboard<ins>
+## Conclusions from dashboard
+<ins>Trends in Gender & Insurance<ins>
+* A considerable amount more insured women brush their teeth 2 times per day than insured men who brush their teeth 2 times per day.
+* Other daily brushing rates are fairly equal between insured vs uninsured and men vs women.
 
-pg1 - Trends in Gender and Insurance
+<ins>Trends in Patient History, Gender, and Pain<ins>
+* Cavities were the most prominent dental ailment, and considerably more women than men had cavities.
+* For total people who did not mention pain, considerably more of them are women than men.
 
-pg2 - Trends in Patient History, Gender, and Pain
+<ins>Impact<ins>
+The most typical patient characteristics from these screenings: brushes teeth 2 times a day, female, insured, has or has had cavities, age 36, attends 1 dental visit per year, no dental pain, and uses Crest toothpaste.
 
-pg3 - Impact
+These events have bridged equity gaps for disenfranchised demographics by providing accessible free screenings outside the typical workweek on Saturdays and Sundays to 168 uninsured folks and 147 women.
+Recent studies show female healthcare patients' pain is taken less seriously by medical health professionals than male healthcare patients pain.
+Other studies show that folks who have healthcare insurance are more likely to go to a healthcare professional for preventative care, while folks without health insurance are more likely to go for emergency care.
 
-Pg4 - Sources
+<ins>Ways Kare Mobile can increase impact measurement accuracy:<ins>
+- Add race or ethnicity options to their patient survey
+- Add a survey question on how easy patients feel it is for them to visit a dentist annually
+- Have patients also record pain levels themselves, to compare it to dentist perceptions of pain
+- Preventing the option for folks to answer unresponsively to the survey
+- Finally, Kare Mobile needs to be able to hold more events, and in more cities
