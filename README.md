@@ -1,6 +1,6 @@
 # Project1
 This repo entails my CodeYou EmPowerUp Power BI Certification course capstone project from fall/winter of 2023.
-There are 2 versions of the Power BI Dashboard, and some of my planning notes (including where I mapped out what the relational database could look like) are in the docx file.
+There are 2 versions of the Power BI Dashboard, and some of my planning notes are in the docx file.
 The file with 2 at the end of the name is the final version of the dashboard.
 Check that one out!
 
@@ -16,7 +16,7 @@ Their website is listed below.
 https://karemobile.com/
 
 * The client explained that they wanted to expand the business geographically, and add more locations they have not serviced yet to their reach.
-* To do that, they needed help telling a story about the impactful work they've been doing to show it to stakeholders.
+* To do that, they needed help telling a story about the impactful work they've been doing.
 * What can be concluded overall when looking at the data for multiple locations & dates altogether?
 * What trends in demographics, zip codes, or different retail chains might exist in the data?
 
