@@ -1,4 +1,4 @@
-*Skills learned in this course: Power BI
+*Skills learned in this course: Power BI*
 # Project1
 This repo entails my CodeYou EmPowerUp Power BI Certification course capstone project from fall/winter of 2023.
 There are 2 versions of the Power BI Dashboard, and some of my planning notes are in the docx file.
