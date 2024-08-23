@@ -50,10 +50,10 @@ A relational database was created inside Power Query - 3 tables for Behaviors, D
 * Cavities were the most prominent dental ailment, and considerably more women than men had cavities.
 * For total people who did not mention pain, considerably more of them are women than men.
 
-<ins>Impact<ins>
-The most typical patient characteristics from these screenings: brushes teeth 2 times a day, female, insured, has or has had cavities, age 36, attends 1 dental visit per year, no dental pain, and uses Crest toothpaste.
+<ins>Impact<ins><br>
+The most typical patient characteristics from these screenings: brushes teeth 2 times a day, female, insured, has or has had cavities, age 36, attends 1 dental visit per year, no dental pain, and uses Crest toothpaste.<br>
 
-These events have bridged equity gaps for disenfranchised demographics by providing accessible free screenings outside the typical workweek on Saturdays and Sundays to 168 uninsured folks and 147 women.
+These events have bridged equity gaps for disenfranchised demographics by providing accessible free screenings outside the typical workweek on Saturdays and Sundays to 168 uninsured folks and 147 women.<br>
 Recent studies show female healthcare patients' pain is taken less seriously by medical health professionals than male healthcare patients pain.
 Other studies show that folks who have healthcare insurance are more likely to go to a healthcare professional for preventative care, while folks without health insurance are more likely to go for emergency care.
 
