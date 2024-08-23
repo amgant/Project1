@@ -2,7 +2,7 @@
 # Project1
 This repo entails my CodeYou EmPowerUp Power BI Certification course capstone project from fall/winter of 2023.
 There are 2 versions of the Power BI Dashboard, and some of my planning notes are in the docx file.
-The file with 2 at the end of the name is the final version of the dashboard.
+The file with 2 at the end of the name is the final version of the dashboard.<br>
 Check that one out in Power BI! 🏵️
 
 ## The Client
