@@ -1,7 +1,7 @@
 # Project1
 This repo entails my CodeYou EmPowerUp Power BI Certification course capstone project from fall/winter of 2023.
-There are 2 versions of the Power BI Dashboard, and there are also my notes on what the client was looking for in the Word document attached.
-The file with 2 at the end of the name was the final version of the dashboard.
+There are 2 versions of the Power BI Dashboard, and some of my planning notes are in the docx file.
+The file with 2 at the end of the name is the final version of the dashboard.
 Check that one out!
 
 ## The Client
@@ -16,7 +16,7 @@ Their website is listed below.
 https://karemobile.com/
 
 * The client explained that they wanted to expand the business geographically, and add more locations they have not serviced yet to their reach.
-* To do that, they needed help telling a story about the impactful work they've been doing to show it to stakeholders.
+* To do that, they needed help telling a story about the impactful work they've been doing.
 * What can be concluded overall when looking at the data for multiple locations & dates altogether?
 * What trends in demographics, zip codes, or different retail chains might exist in the data?
 
@@ -41,13 +41,26 @@ A relational database was created inside Power Query - 3 tables for Behaviors, D
 * Are there trends around specific retailer chains?
 * Are there trends around specific days of the week?
 
-## Conclusion
-<ins>In dashboard<ins>
+## Conclusions from dashboard
+<ins>Trends in Gender & Insurance<ins>
+* A considerable amount ***more insured women brush their teeth 2 times per day*** than ***insured men who brush their teeth 2 times per day***.
+* Other daily brushing rates are fairly equal between insured vs uninsured and men vs women.
 
-pg1 - Trends in Gender and Insurance
+<ins>Trends in Patient History, Gender, and Pain<ins>
+* ***Cavities*** were the most prominent dental ailment, and ***considerably more women than men had cavities***.
+* For total people who **did not** mention ***pain***, ***considerably more of them are women than men***.
 
-pg2 - Trends in Patient History, Gender, and Pain
+<ins>Impact<ins><br>
 
-pg3 - Impact
+***The most typical patient characteristics from these screenings:*** brushes teeth 2 times a day, female, insured, has or has had cavities, age 36, attends 1 dental visit per year, no dental pain, and uses Crest toothpaste.<br>
 
-Pg4 - Sources
+These screenings have bridged equity gaps for disenfranchised demographics by providing accessible ***free*** screenings outside the typical workweek on ***Saturdays and Sundays*** to ***168 uninsured folks*** and ***147 women***.<br>
+Recent studies show female healthcare patients' pain is taken less seriously by medical health professionals than male healthcare patients pain.<br>
+Other studies show that folks who have healthcare insurance are more likely to go to a healthcare professional for preventative care, while folks without health insurance are more likely to go for emergency care.
+
+<ins>Ways Kare Mobile can increase impact measurement accuracy:<ins>
+- Add race or ethnicity options to their patient survey
+- Add a survey question on how easy patients feel it is for them to visit a dentist annually
+- Have patients also record pain levels themselves, to compare it to dentist perceptions of pain
+- Preventing the option for folks to answer unresponsively to the survey
+- Finally, Kare Mobile needs to be able to hold more events, and in more cities
