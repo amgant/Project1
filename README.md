@@ -1,9 +1,11 @@
-*Skills learned in this course: Power BI, Data Storytelling*
+*Skills learned in this course: Power BI, smart data cleaning, data storytelling*
 # Project1
 This repo entails my CodeYou EmPowerUp Power BI Certification course capstone project from fall/winter of 2023.
 There are 2 versions of the Power BI Dashboard, and some of my planning notes are in the docx file.
 The file with 2 at the end of the name is the final version of the dashboard.<br>
-Check that one out in Power BI! 🏵️
+Check that one out in Power BI!<br>
+I am not currently paying for Power BI Publishing, so you can only open these Power BI dashboard files in the Power BI Desktop app if you have it.<br>
+I don't enjoy *interactive graphs* that *can't be interacted with*, but I've attached a Powerpoint version for viewing the dashboard that way as well.
 
 ## The Client
 For every 10 min away someone lives from a dentist, it’s a 10% higher chance they won’t see a dentist within a year. 
