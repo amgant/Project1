@@ -3,7 +3,7 @@
 This repo entails my CodeYou EmPowerUp Power BI Certification course capstone project from fall/winter of 2023.
 There are 2 versions of the Power BI Dashboard, and some of my planning notes are in the docx file.
 The file with 2 at the end of the name is the final version of the dashboard.
-Check that one out!
+Check that one out in Power BI! 🏵️
 
 ## The Client
 For every 10 min away someone lives from a dentist, it’s a 10% higher chance they won’t see a dentist within a year. 
@@ -65,3 +65,5 @@ Other studies show that folks who have healthcare insurance are more likely to g
 - Have patients also record pain levels themselves, to compare it to dentist perceptions of pain
 - Preventing the option for folks to answer unresponsively to the survey
 - Finally, Kare Mobile needs to be able to hold more events, and in more cities
+
+*Thanks for reading and I hope you enjoyed the interactive dashboard! ~🏵️*
